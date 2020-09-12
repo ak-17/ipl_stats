@@ -25,7 +25,8 @@ func (api *Api) initHandlers() error {
 
 	r.Handle("/healthCheck", HandlerFunc(api.Health))
 	r.Handle("/api/getMovieByTitle", HandlerFunc(api.GetMovieByTitle)).Methods(http.MethodGet)
-	http.Handle("/", r)
+	r.Handle("/", HandlerFunc(api.Health))
+	//http.Handle("/", r)
 
 	err := http.ListenAndServe(":3000", r)
 	if err != nil {
