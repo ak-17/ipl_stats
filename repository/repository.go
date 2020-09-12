@@ -7,5 +7,6 @@ import (
 )
 
 type Repository interface {
-	GetMovieByTitle(ctx context.Context, name string) (model.Movie, error)
+	GetAllPlayers(ctx context.Context) []model.Player
+	GetPlayersByTeam(ctx context.Context, team string) []model.Player
 }

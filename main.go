@@ -2,6 +2,9 @@ package main
 
 import (
 	"fmt"
+	"github.com/ak-17/ipl_stats/delivery/api"
+	"github.com/ak-17/ipl_stats/repository/database/inmemory"
+	"github.com/ak-17/ipl_stats/usecase/apiVersion1"
 	"net/http"
 )
 
@@ -22,31 +25,33 @@ func main() {
 	//
 	//fmt.Print(len(movies))
 
-	//repo, err := inmemory.New()
-	//if err != nil {
-	//	fmt.Print(err.Error())
-	//	return
-	//}
-	//
-	//uc, err := apiVersion1.New(repo)
-	//if err != nil {
-	//	fmt.Print(err.Error())
-	//	return
-	//}
-	//
-	//err = api.New(uc)
-	//if err != nil {
-	//	fmt.Print(err.Error())
-	//	return
-	//}
-	//return
+	repo, err := inmemory.New()
+	if err != nil {
+		fmt.Print(err.Error())
+		return
+	}
 
-	fmt.Println("Hello World")
-	http.HandleFunc("/",helloWorld)
+	uc, err := apiVersion1.New(repo)
+	if err != nil {
+		fmt.Print(err.Error())
+		return
+	}
+	//
+	_,err = api.New(uc)
+	if err != nil {
+		fmt.Print(err.Error())
+		return
+	}
+
+
 	http.ListenAndServe(":5000",nil)
 
 }
 
 func helloWorld(w http.ResponseWriter, r *http.Request) {
 	fmt.Fprintf(w, "Hello Akshay")
+}
+
+func Health(w http.ResponseWriter, r *http.Request) (interface{}, error) {
+	return "OK", nil
 }

@@ -1,0 +1,3543 @@
+[
+    {
+        "catches": 2, 
+        "name": "David  Warner", 
+        "matches": 12, 
+        "team": "SRH", 
+        "batting": {
+            "innings": 12, 
+            "runs": 692, 
+            "high_score": 100, 
+            "fours": 57, 
+            "strike_rate": 143.86, 
+            "hundreds": 1, 
+            "balls_faced": 481, 
+            "fifties": 8, 
+            "sixes": 21, 
+            "avg": 69.2, 
+            "not_out": 2
+        }, 
+        "stumpings": 0
+    }, 
+    {
+        "catches": 9, 
+        "name": "Jonny  Bairstow", 
+        "matches": 10, 
+        "team": "SRH", 
+        "batting": {
+            "innings": 10, 
+            "runs": 445, 
+            "high_score": 114, 
+            "fours": 48, 
+            "strike_rate": 157.24, 
+            "hundreds": 1, 
+            "balls_faced": 283, 
+            "fifties": 2, 
+            "sixes": 18, 
+            "avg": 55.62, 
+            "not_out": 2
+        }, 
+        "stumpings": 2
+    }, 
+    {
+        "catches": 7, 
+        "name": "Manish  Pandey", 
+        "matches": 12, 
+        "team": "SRH", 
+        "batting": {
+            "innings": 11, 
+            "runs": 344, 
+            "high_score": 83, 
+            "fours": 34, 
+            "strike_rate": 130.79, 
+            "hundreds": 0, 
+            "balls_faced": 263, 
+            "fifties": 3, 
+            "sixes": 6, 
+            "avg": 43.0, 
+            "not_out": 3
+        }, 
+        "stumpings": 0
+    }, 
+    {
+        "catches": 10, 
+        "name": "Vijay  Shankar", 
+        "matches": 15, 
+        "team": "SRH", 
+        "bowling": {
+            "innings": 5, 
+            "overs_bowled": 8.0, 
+            "4w": 0, 
+            "5w": 0, 
+            "runs_conceded": 70, 
+            "strike_rate": 48.0, 
+            "wickets": 1, 
+            "avg": 70.0, 
+            "economy": 8.75
+        }, 
+        "batting": {
+            "innings": 14, 
+            "runs": 244, 
+            "high_score": 40, 
+            "fours": 11, 
+            "strike_rate": 126.42, 
+            "hundreds": 0, 
+            "balls_faced": 193, 
+            "fifties": 0, 
+            "sixes": 12, 
+            "avg": 20.33, 
+            "not_out": 2
+        }, 
+        "stumpings": 0
+    }, 
+    {
+        "catches": 2, 
+        "name": "Kane  Williamson", 
+        "matches": 9, 
+        "team": "SRH", 
+        "batting": {
+            "innings": 9, 
+            "runs": 156, 
+            "high_score": 70, 
+            "fours": 12, 
+            "strike_rate": 120.0, 
+            "hundreds": 0, 
+            "balls_faced": 130, 
+            "fifties": 1, 
+            "sixes": 5, 
+            "avg": 22.28, 
+            "not_out": 2
+        }, 
+        "stumpings": 0
+    }, 
+    {
+        "catches": 6, 
+        "name": "Mohammad  Nabi", 
+        "matches": 8, 
+        "team": "SRH", 
+        "bowling": {
+            "innings": 8, 
+            "overs_bowled": 29.1, 
+            "4w": 1, 
+            "5w": 0, 
+            "runs_conceded": 194, 
+            "strike_rate": 21.87, 
+            "wickets": 8, 
+            "avg": 24.25, 
+            "economy": 6.65
+        }, 
+        "batting": {
+            "innings": 7, 
+            "runs": 115, 
+            "high_score": 31, 
+            "fours": 8, 
+            "strike_rate": 151.31, 
+            "hundreds": 0, 
+            "balls_faced": 76, 
+            "fifties": 0, 
+            "sixes": 7, 
+            "avg": 19.16, 
+            "not_out": 1
+        }, 
+        "stumpings": 0
+    }, 
+    {
+        "catches": 4, 
+        "name": "Wriddhiman  Saha", 
+        "matches": 5, 
+        "team": "SRH", 
+        "batting": {
+            "innings": 5, 
+            "runs": 86, 
+            "high_score": 28, 
+            "fours": 13, 
+            "strike_rate": 162.26, 
+            "hundreds": 0, 
+            "balls_faced": 53, 
+            "fifties": 0, 
+            "sixes": 1, 
+            "avg": 17.2, 
+            "not_out": 0
+        }, 
+        "stumpings": 1
+    }, 
+    {
+        "catches": 1, 
+        "name": "Martin  Guptill", 
+        "matches": 3, 
+        "team": "SRH", 
+        "batting": {
+            "innings": 3, 
+            "runs": 81, 
+            "high_score": 36, 
+            "fours": 4, 
+            "strike_rate": 152.83, 
+            "hundreds": 0, 
+            "balls_faced": 53, 
+            "fifties": 0, 
+            "sixes": 7, 
+            "avg": 27.0, 
+            "not_out": 0
+        }, 
+        "stumpings": 0
+    }, 
+    {
+        "catches": 10, 
+        "name": "Deepak  Hooda", 
+        "matches": 11, 
+        "team": "SRH", 
+        "bowling": {
+            "innings": 2, 
+            "overs_bowled": 2.0, 
+            "4w": 0, 
+            "5w": 0, 
+            "runs_conceded": 21, 
+            "strike_rate": 12.0, 
+            "wickets": 1, 
+            "avg": 21.0, 
+            "economy": 10.5
+        }, 
+        "batting": {
+            "innings": 7, 
+            "runs": 64, 
+            "high_score": 20, 
+            "fours": 5, 
+            "strike_rate": 101.58, 
+            "hundreds": 0, 
+            "balls_faced": 63, 
+            "fifties": 0, 
+            "sixes": 1, 
+            "avg": 10.66, 
+            "not_out": 1
+        }, 
+        "stumpings": 0
+    }, 
+    {
+        "catches": 1, 
+        "name": "Yusuf  Pathan", 
+        "matches": 10, 
+        "team": "SRH", 
+        "bowling": {
+            "innings": 1, 
+            "overs_bowled": 1.0, 
+            "4w": 0, 
+            "5w": 0, 
+            "runs_conceded": 8, 
+            "strike_rate": 0.0, 
+            "wickets": 0, 
+            "avg": 0.0, 
+            "economy": 8.0
+        }, 
+        "batting": {
+            "innings": 8, 
+            "runs": 40, 
+            "high_score": 16, 
+            "fours": 1, 
+            "strike_rate": 88.88, 
+            "hundreds": 0, 
+            "balls_faced": 45, 
+            "fifties": 0, 
+            "sixes": 1, 
+            "avg": 13.33, 
+            "not_out": 5
+        }, 
+        "stumpings": 0
+    }, 
+    {
+        "catches": 4, 
+        "name": "Rashid  Khan", 
+        "matches": 15, 
+        "team": "SRH", 
+        "bowling": {
+            "innings": 15, 
+            "overs_bowled": 60.0, 
+            "4w": 0, 
+            "5w": 0, 
+            "runs_conceded": 377, 
+            "strike_rate": 21.17, 
+            "wickets": 17, 
+            "avg": 22.17, 
+            "economy": 6.28
+        }, 
+        "batting": {
+            "innings": 8, 
+            "runs": 34, 
+            "high_score": 17, 
+            "fours": 2, 
+            "strike_rate": 147.82, 
+            "hundreds": 0, 
+            "balls_faced": 23, 
+            "fifties": 0, 
+            "sixes": 2, 
+            "avg": 6.8, 
+            "not_out": 3
+        }, 
+        "stumpings": 0
+    }, 
+    {
+        "catches": 4, 
+        "name": "Bhuvneshwar  Kumar", 
+        "matches": 15, 
+        "team": "SRH", 
+        "bowling": {
+            "innings": 15, 
+            "overs_bowled": 59.0, 
+            "4w": 0, 
+            "5w": 0, 
+            "runs_conceded": 461, 
+            "strike_rate": 27.23, 
+            "wickets": 13, 
+            "avg": 35.46, 
+            "economy": 7.81
+        }, 
+        "batting": {
+            "innings": 5, 
+            "runs": 12, 
+            "high_score": 7, 
+            "fours": 1, 
+            "strike_rate": 63.15, 
+            "hundreds": 0, 
+            "balls_faced": 19, 
+            "fifties": 0, 
+            "sixes": 0, 
+            "avg": 4.0, 
+            "not_out": 2
+        }, 
+        "stumpings": 0
+    }, 
+    {
+        "catches": 0, 
+        "name": "Shakib  Al Hasan", 
+        "matches": 3, 
+        "team": "SRH", 
+        "bowling": {
+            "innings": 3, 
+            "overs_bowled": 10.5, 
+            "4w": 0, 
+            "5w": 0, 
+            "runs_conceded": 95, 
+            "strike_rate": 32.5, 
+            "wickets": 2, 
+            "avg": 47.5, 
+            "economy": 8.76
+        }, 
+        "batting": {
+            "innings": 1, 
+            "runs": 9, 
+            "high_score": 9, 
+            "fours": 0, 
+            "strike_rate": 90.0, 
+            "hundreds": 0, 
+            "balls_faced": 10, 
+            "fifties": 0, 
+            "sixes": 0, 
+            "avg": 9.0, 
+            "not_out": 0
+        }, 
+        "stumpings": 0
+    }, 
+    {
+        "catches": 7, 
+        "name": "KL  Rahul", 
+        "matches": 14, 
+        "team": "KXIP", 
+        "batting": {
+            "innings": 14, 
+            "runs": 593, 
+            "high_score": 100, 
+            "fours": 49, 
+            "strike_rate": 135.38, 
+            "hundreds": 1, 
+            "balls_faced": 438, 
+            "fifties": 6, 
+            "sixes": 25, 
+            "avg": 53.9, 
+            "not_out": 3
+        }, 
+        "stumpings": 0
+    }, 
+    {
+        "catches": 0, 
+        "name": "Chris  Gayle", 
+        "matches": 13, 
+        "team": "KXIP", 
+        "batting": {
+            "innings": 13, 
+            "runs": 490, 
+            "high_score": 99, 
+            "fours": 45, 
+            "strike_rate": 153.6, 
+            "hundreds": 0, 
+            "balls_faced": 319, 
+            "fifties": 4, 
+            "sixes": 34, 
+            "avg": 40.83, 
+            "not_out": 1
+        }, 
+        "stumpings": 0
+    }, 
+    {
+        "catches": 7, 
+        "name": "Mayank  Agarwal", 
+        "matches": 13, 
+        "team": "KXIP", 
+        "batting": {
+            "innings": 13, 
+            "runs": 332, 
+            "high_score": 58, 
+            "fours": 26, 
+            "strike_rate": 141.88, 
+            "hundreds": 0, 
+            "balls_faced": 234, 
+            "fifties": 2, 
+            "sixes": 14, 
+            "avg": 25.53, 
+            "not_out": 0
+        }, 
+        "stumpings": 0
+    }, 
+    {
+        "catches": 7, 
+        "name": "David  Miller", 
+        "matches": 10, 
+        "team": "KXIP", 
+        "batting": {
+            "innings": 10, 
+            "runs": 213, 
+            "high_score": 59, 
+            "fours": 19, 
+            "strike_rate": 129.87, 
+            "hundreds": 0, 
+            "balls_faced": 164, 
+            "fifties": 1, 
+            "sixes": 7, 
+            "avg": 26.62, 
+            "not_out": 2
+        }, 
+        "stumpings": 0
+    }, 
+    {
+        "catches": 0, 
+        "name": "Sarfaraz  Khan", 
+        "matches": 8, 
+        "team": "KXIP", 
+        "batting": {
+            "innings": 5, 
+            "runs": 180, 
+            "high_score": 67, 
+            "fours": 19, 
+            "strike_rate": 125.87, 
+            "hundreds": 0, 
+            "balls_faced": 143, 
+            "fifties": 1, 
+            "sixes": 4, 
+            "avg": 45.0, 
+            "not_out": 1
+        }, 
+        "stumpings": 0
+    }, 
+    {
+        "catches": 1, 
+        "name": "Nicholas  Pooran", 
+        "matches": 7, 
+        "team": "KXIP", 
+        "batting": {
+            "innings": 6, 
+            "runs": 168, 
+            "high_score": 48, 
+            "fours": 10, 
+            "strike_rate": 157.0, 
+            "hundreds": 0, 
+            "balls_faced": 107, 
+            "fifties": 0, 
+            "sixes": 14, 
+            "avg": 28.0, 
+            "not_out": 0
+        }, 
+        "stumpings": 0
+    }, 
+    {
+        "catches": 4, 
+        "name": "Mandeep  Singh", 
+        "matches": 13, 
+        "team": "KXIP", 
+        "bowling": {
+            "innings": 2, 
+            "overs_bowled": 2.0, 
+            "4w": 0, 
+            "5w": 0, 
+            "runs_conceded": 26, 
+            "strike_rate": 0.0, 
+            "wickets": 0, 
+            "avg": 0.0, 
+            "economy": 13.0
+        }, 
+        "batting": {
+            "innings": 12, 
+            "runs": 165, 
+            "high_score": 33, 
+            "fours": 10, 
+            "strike_rate": 137.5, 
+            "hundreds": 0, 
+            "balls_faced": 120, 
+            "fifties": 0, 
+            "sixes": 4, 
+            "avg": 41.25, 
+            "not_out": 8
+        }, 
+        "stumpings": 0
+    }, 
+    {
+        "catches": 2, 
+        "name": "Sam  Curran", 
+        "matches": 9, 
+        "team": "KXIP", 
+        "bowling": {
+            "innings": 9, 
+            "overs_bowled": 33.0, 
+            "4w": 1, 
+            "5w": 0, 
+            "runs_conceded": 323, 
+            "strike_rate": 19.8, 
+            "wickets": 10, 
+            "avg": 32.3, 
+            "economy": 9.78
+        }, 
+        "batting": {
+            "innings": 8, 
+            "runs": 95, 
+            "high_score": 55, 
+            "fours": 13, 
+            "strike_rate": 172.72, 
+            "hundreds": 0, 
+            "balls_faced": 55, 
+            "fifties": 1, 
+            "sixes": 3, 
+            "avg": 23.75, 
+            "not_out": 4
+        }, 
+        "stumpings": 0
+    }, 
+    {
+        "catches": 4, 
+        "name": "Ravichandran  Ashwin", 
+        "matches": 14, 
+        "team": "KXIP", 
+        "bowling": {
+            "innings": 14, 
+            "overs_bowled": 55.0, 
+            "4w": 0, 
+            "5w": 0, 
+            "runs_conceded": 400, 
+            "strike_rate": 22.0, 
+            "wickets": 15, 
+            "avg": 26.66, 
+            "economy": 7.27
+        }, 
+        "batting": {
+            "innings": 6, 
+            "runs": 42, 
+            "high_score": 17, 
+            "fours": 3, 
+            "strike_rate": 150.0, 
+            "hundreds": 0, 
+            "balls_faced": 28, 
+            "fifties": 0, 
+            "sixes": 3, 
+            "avg": 8.4, 
+            "not_out": 1
+        }, 
+        "stumpings": 0
+    }, 
+    {
+        "catches": 0, 
+        "name": "Harpreet  Brar", 
+        "matches": 2, 
+        "team": "KXIP", 
+        "bowling": {
+            "innings": 2, 
+            "overs_bowled": 5.0, 
+            "4w": 0, 
+            "5w": 0, 
+            "runs_conceded": 48, 
+            "strike_rate": 0.0, 
+            "wickets": 0, 
+            "avg": 0.0, 
+            "economy": 9.6
+        }, 
+        "batting": {
+            "innings": 1, 
+            "runs": 20, 
+            "high_score": 20, 
+            "fours": 2, 
+            "strike_rate": 166.66, 
+            "hundreds": 0, 
+            "balls_faced": 12, 
+            "fifties": 0, 
+            "sixes": 1, 
+            "avg": 0.0, 
+            "not_out": 1
+        }, 
+        "stumpings": 0
+    }, 
+    {
+        "catches": 1, 
+        "name": "Simran  Singh", 
+        "matches": 1, 
+        "team": "KXIP", 
+        "batting": {
+            "innings": 1, 
+            "runs": 16, 
+            "high_score": 16, 
+            "fours": 1, 
+            "strike_rate": 94.11, 
+            "hundreds": 0, 
+            "balls_faced": 17, 
+            "fifties": 0, 
+            "sixes": 1, 
+            "avg": 16.0, 
+            "not_out": 0
+        }, 
+        "stumpings": 0
+    }, 
+    {
+        "catches": 17, 
+        "name": "Quinton  de Kock", 
+        "matches": 16, 
+        "team": "MI", 
+        "batting": {
+            "innings": 16, 
+            "runs": 529, 
+            "high_score": 81, 
+            "fours": 45, 
+            "strike_rate": 132.91, 
+            "hundreds": 0, 
+            "balls_faced": 398, 
+            "fifties": 4, 
+            "sixes": 25, 
+            "avg": 35.26, 
+            "not_out": 1
+        }, 
+        "stumpings": 2
+    }, 
+    {
+        "catches": 9, 
+        "name": "Suryakumar  Yadav", 
+        "matches": 16, 
+        "team": "MI", 
+        "batting": {
+            "innings": 15, 
+            "runs": 424, 
+            "high_score": 71, 
+            "fours": 45, 
+            "strike_rate": 130.86, 
+            "hundreds": 0, 
+            "balls_faced": 324, 
+            "fifties": 2, 
+            "sixes": 10, 
+            "avg": 32.61, 
+            "not_out": 2
+        }, 
+        "stumpings": 0
+    }, 
+    {
+        "catches": 4, 
+        "name": "Rohit  Sharma", 
+        "matches": 15, 
+        "team": "MI", 
+        "batting": {
+            "innings": 15, 
+            "runs": 405, 
+            "high_score": 67, 
+            "fours": 52, 
+            "strike_rate": 128.57, 
+            "hundreds": 0, 
+            "balls_faced": 315, 
+            "fifties": 2, 
+            "sixes": 10, 
+            "avg": 28.92, 
+            "not_out": 1
+        }, 
+        "stumpings": 0
+    }, 
+    {
+        "catches": 11, 
+        "name": "Hardik  Pandya", 
+        "matches": 16, 
+        "team": "MI", 
+        "bowling": {
+            "innings": 16, 
+            "overs_bowled": 42.3, 
+            "4w": 0, 
+            "5w": 0, 
+            "runs_conceded": 390, 
+            "strike_rate": 18.21, 
+            "wickets": 14, 
+            "avg": 27.85, 
+            "economy": 9.17
+        }, 
+        "batting": {
+            "innings": 15, 
+            "runs": 402, 
+            "high_score": 91, 
+            "fours": 28, 
+            "strike_rate": 191.42, 
+            "hundreds": 0, 
+            "balls_faced": 210, 
+            "fifties": 1, 
+            "sixes": 29, 
+            "avg": 44.66, 
+            "not_out": 6
+        }, 
+        "stumpings": 0
+    }, 
+    {
+        "catches": 8, 
+        "name": "Kieron  Pollard", 
+        "matches": 16, 
+        "team": "MI", 
+        "batting": {
+            "innings": 14, 
+            "runs": 279, 
+            "high_score": 83, 
+            "fours": 14, 
+            "strike_rate": 156.74, 
+            "hundreds": 0, 
+            "balls_faced": 178, 
+            "fifties": 1, 
+            "sixes": 22, 
+            "avg": 34.87, 
+            "not_out": 6
+        }, 
+        "stumpings": 0
+    }, 
+    {
+        "catches": 5, 
+        "name": "Krunal  Pandya", 
+        "matches": 16, 
+        "team": "MI", 
+        "bowling": {
+            "innings": 16, 
+            "overs_bowled": 46.0, 
+            "4w": 0, 
+            "5w": 0, 
+            "runs_conceded": 335, 
+            "strike_rate": 23.0, 
+            "wickets": 12, 
+            "avg": 27.91, 
+            "economy": 7.28
+        }, 
+        "batting": {
+            "innings": 15, 
+            "runs": 183, 
+            "high_score": 42, 
+            "fours": 18, 
+            "strike_rate": 122.0, 
+            "hundreds": 0, 
+            "balls_faced": 150, 
+            "fifties": 0, 
+            "sixes": 5, 
+            "avg": 16.63, 
+            "not_out": 4
+        }, 
+        "stumpings": 0
+    }, 
+    {
+        "catches": 2, 
+        "name": "Ishan  Kishan", 
+        "matches": 7, 
+        "team": "MI", 
+        "batting": {
+            "innings": 6, 
+            "runs": 101, 
+            "high_score": 28, 
+            "fours": 8, 
+            "strike_rate": 101.0, 
+            "hundreds": 0, 
+            "balls_faced": 100, 
+            "fifties": 0, 
+            "sixes": 4, 
+            "avg": 16.83, 
+            "not_out": 0
+        }, 
+        "stumpings": 0
+    }, 
+    {
+        "catches": 0, 
+        "name": "Yuvraj  Singh", 
+        "matches": 4, 
+        "team": "MI", 
+        "batting": {
+            "innings": 4, 
+            "runs": 98, 
+            "high_score": 53, 
+            "fours": 7, 
+            "strike_rate": 130.66, 
+            "hundreds": 0, 
+            "balls_faced": 75, 
+            "fifties": 1, 
+            "sixes": 6, 
+            "avg": 24.5, 
+            "not_out": 0
+        }, 
+        "stumpings": 0
+    }, 
+    {
+        "catches": 3, 
+        "name": "Evin  Lewis", 
+        "matches": 3, 
+        "team": "MI", 
+        "batting": {
+            "innings": 3, 
+            "runs": 48, 
+            "high_score": 32, 
+            "fours": 4, 
+            "strike_rate": 92.3, 
+            "hundreds": 0, 
+            "balls_faced": 52, 
+            "fifties": 0, 
+            "sixes": 2, 
+            "avg": 16.0, 
+            "not_out": 0
+        }, 
+        "stumpings": 0
+    }, 
+    {
+        "catches": 0, 
+        "name": "Ben  Cutting", 
+        "matches": 3, 
+        "team": "MI", 
+        "bowling": {
+            "innings": 1, 
+            "overs_bowled": 2.0, 
+            "4w": 0, 
+            "5w": 0, 
+            "runs_conceded": 27, 
+            "strike_rate": 12.0, 
+            "wickets": 1, 
+            "avg": 27.0, 
+            "economy": 13.5
+        }, 
+        "batting": {
+            "innings": 3, 
+            "runs": 18, 
+            "high_score": 13, 
+            "fours": 1, 
+            "strike_rate": 105.88, 
+            "hundreds": 0, 
+            "balls_faced": 17, 
+            "fifties": 0, 
+            "sixes": 1, 
+            "avg": 9.0, 
+            "not_out": 1
+        }, 
+        "stumpings": 0
+    }, 
+    {
+        "catches": 1, 
+        "name": "Alzarri  Joseph", 
+        "matches": 3, 
+        "team": "MI", 
+        "bowling": {
+            "innings": 3, 
+            "overs_bowled": 8.4, 
+            "4w": 0, 
+            "5w": 1, 
+            "runs_conceded": 87, 
+            "strike_rate": 8.66, 
+            "wickets": 6, 
+            "avg": 14.5, 
+            "economy": 10.03
+        }, 
+        "batting": {
+            "innings": 2, 
+            "runs": 15, 
+            "high_score": 15, 
+            "fours": 2, 
+            "strike_rate": 115.38, 
+            "hundreds": 0, 
+            "balls_faced": 13, 
+            "fifties": 0, 
+            "sixes": 0, 
+            "avg": 0.0, 
+            "not_out": 2
+        }, 
+        "stumpings": 0
+    }, 
+    {
+        "catches": 0, 
+        "name": "Siddhesh  Lad", 
+        "matches": 1, 
+        "team": "MI", 
+        "batting": {
+            "innings": 1, 
+            "runs": 15, 
+            "high_score": 15, 
+            "fours": 1, 
+            "strike_rate": 115.38, 
+            "hundreds": 0, 
+            "balls_faced": 13, 
+            "fifties": 0, 
+            "sixes": 1, 
+            "avg": 15.0, 
+            "not_out": 0
+        }, 
+        "stumpings": 0
+    }, 
+    {
+        "catches": 3, 
+        "name": "Rahul  Chahar", 
+        "matches": 13, 
+        "team": "MI", 
+        "bowling": {
+            "innings": 13, 
+            "overs_bowled": 47.0, 
+            "4w": 0, 
+            "5w": 0, 
+            "runs_conceded": 308, 
+            "strike_rate": 21.69, 
+            "wickets": 13, 
+            "avg": 23.69, 
+            "economy": 6.55
+        }, 
+        "batting": {
+            "innings": 4, 
+            "runs": 12, 
+            "high_score": 10, 
+            "fours": 2, 
+            "strike_rate": 109.09, 
+            "hundreds": 0, 
+            "balls_faced": 11, 
+            "fifties": 0, 
+            "sixes": 0, 
+            "avg": 6.0, 
+            "not_out": 2
+        }, 
+        "stumpings": 0
+    }, 
+    {
+        "catches": 0, 
+        "name": "Mitchell  McClenaghan", 
+        "matches": 5, 
+        "team": "MI", 
+        "bowling": {
+            "innings": 5, 
+            "overs_bowled": 18.0, 
+            "4w": 0, 
+            "5w": 0, 
+            "runs_conceded": 142, 
+            "strike_rate": 36.0, 
+            "wickets": 3, 
+            "avg": 47.33, 
+            "economy": 7.88
+        }, 
+        "batting": {
+            "innings": 4, 
+            "runs": 11, 
+            "high_score": 10, 
+            "fours": 2, 
+            "strike_rate": 68.75, 
+            "hundreds": 0, 
+            "balls_faced": 16, 
+            "fifties": 0, 
+            "sixes": 0, 
+            "avg": 3.66, 
+            "not_out": 1
+        }, 
+        "stumpings": 0
+    }, 
+    {
+        "catches": 5, 
+        "name": "Shikhar  Dhawan", 
+        "matches": 16, 
+        "team": "DC", 
+        "batting": {
+            "innings": 16, 
+            "runs": 521, 
+            "high_score": 97, 
+            "fours": 64, 
+            "strike_rate": 135.67, 
+            "hundreds": 0, 
+            "balls_faced": 384, 
+            "fifties": 5, 
+            "sixes": 11, 
+            "avg": 34.73, 
+            "not_out": 1
+        }, 
+        "stumpings": 0
+    }, 
+    {
+        "catches": 18, 
+        "name": "Rishabh  Pant", 
+        "matches": 16, 
+        "team": "DC", 
+        "batting": {
+            "innings": 16, 
+            "runs": 488, 
+            "high_score": 78, 
+            "fours": 37, 
+            "strike_rate": 162.66, 
+            "hundreds": 0, 
+            "balls_faced": 300, 
+            "fifties": 3, 
+            "sixes": 27, 
+            "avg": 37.53, 
+            "not_out": 3
+        }, 
+        "stumpings": 6
+    }, 
+    {
+        "catches": 8, 
+        "name": "Shreyas  Iyer", 
+        "matches": 16, 
+        "team": "DC", 
+        "batting": {
+            "innings": 16, 
+            "runs": 463, 
+            "high_score": 67, 
+            "fours": 41, 
+            "strike_rate": 119.94, 
+            "hundreds": 0, 
+            "balls_faced": 386, 
+            "fifties": 3, 
+            "sixes": 14, 
+            "avg": 30.86, 
+            "not_out": 1
+        }, 
+        "stumpings": 0
+    }, 
+    {
+        "catches": 2, 
+        "name": "Prithvi  Shaw", 
+        "matches": 16, 
+        "team": "DC", 
+        "batting": {
+            "innings": 16, 
+            "runs": 353, 
+            "high_score": 99, 
+            "fours": 45, 
+            "strike_rate": 133.71, 
+            "hundreds": 0, 
+            "balls_faced": 264, 
+            "fifties": 2, 
+            "sixes": 9, 
+            "avg": 22.06, 
+            "not_out": 0
+        }, 
+        "stumpings": 0
+    }, 
+    {
+        "catches": 1, 
+        "name": "Colin  Ingram", 
+        "matches": 12, 
+        "team": "DC", 
+        "batting": {
+            "innings": 12, 
+            "runs": 184, 
+            "high_score": 47, 
+            "fours": 20, 
+            "strike_rate": 119.48, 
+            "hundreds": 0, 
+            "balls_faced": 154, 
+            "fifties": 0, 
+            "sixes": 5, 
+            "avg": 18.4, 
+            "not_out": 2
+        }, 
+        "stumpings": 0
+    }, 
+    {
+        "catches": 9, 
+        "name": "Axar  Patel", 
+        "matches": 14, 
+        "team": "DC", 
+        "bowling": {
+            "innings": 14, 
+            "overs_bowled": 51.0, 
+            "4w": 0, 
+            "5w": 0, 
+            "runs_conceded": 364, 
+            "strike_rate": 30.6, 
+            "wickets": 10, 
+            "avg": 36.4, 
+            "economy": 7.13
+        }, 
+        "batting": {
+            "innings": 12, 
+            "runs": 110, 
+            "high_score": 26, 
+            "fours": 10, 
+            "strike_rate": 125.0, 
+            "hundreds": 0, 
+            "balls_faced": 88, 
+            "fifties": 0, 
+            "sixes": 3, 
+            "avg": 18.33, 
+            "not_out": 6
+        }, 
+        "stumpings": 0
+    }, 
+    {
+        "catches": 0, 
+        "name": "Colin  Munro", 
+        "matches": 4, 
+        "team": "DC", 
+        "batting": {
+            "innings": 4, 
+            "runs": 84, 
+            "high_score": 40, 
+            "fours": 9, 
+            "strike_rate": 120.0, 
+            "hundreds": 0, 
+            "balls_faced": 70, 
+            "fifties": 0, 
+            "sixes": 4, 
+            "avg": 21.0, 
+            "not_out": 0
+        }, 
+        "stumpings": 0
+    }, 
+    {
+        "catches": 5, 
+        "name": "Sherfane  Rutherford", 
+        "matches": 7, 
+        "team": "DC", 
+        "bowling": {
+            "innings": 6, 
+            "overs_bowled": 6.5, 
+            "4w": 0, 
+            "5w": 0, 
+            "runs_conceded": 59, 
+            "strike_rate": 41.0, 
+            "wickets": 1, 
+            "avg": 59.0, 
+            "economy": 8.63
+        }, 
+        "batting": {
+            "innings": 7, 
+            "runs": 73, 
+            "high_score": 28, 
+            "fours": 2, 
+            "strike_rate": 135.18, 
+            "hundreds": 0, 
+            "balls_faced": 54, 
+            "fifties": 0, 
+            "sixes": 7, 
+            "avg": 14.6, 
+            "not_out": 2
+        }, 
+        "stumpings": 0
+    }, 
+    {
+        "catches": 4, 
+        "name": "Chris  Morris", 
+        "matches": 9, 
+        "team": "DC", 
+        "bowling": {
+            "innings": 9, 
+            "overs_bowled": 33.0, 
+            "4w": 0, 
+            "5w": 0, 
+            "runs_conceded": 306, 
+            "strike_rate": 15.23, 
+            "wickets": 13, 
+            "avg": 23.53, 
+            "economy": 9.27
+        }, 
+        "batting": {
+            "innings": 6, 
+            "runs": 32, 
+            "high_score": 17, 
+            "fours": 1, 
+            "strike_rate": 86.48, 
+            "hundreds": 0, 
+            "balls_faced": 37, 
+            "fifties": 0, 
+            "sixes": 2, 
+            "avg": 5.33, 
+            "not_out": 0
+        }, 
+        "stumpings": 0
+    }, 
+    {
+        "catches": 6, 
+        "name": "Rahul  Tewatia", 
+        "matches": 5, 
+        "team": "DC", 
+        "bowling": {
+            "innings": 3, 
+            "overs_bowled": 6.2, 
+            "4w": 0, 
+            "5w": 0, 
+            "runs_conceded": 42, 
+            "strike_rate": 19.0, 
+            "wickets": 2, 
+            "avg": 21.0, 
+            "economy": 6.63
+        }, 
+        "batting": {
+            "innings": 4, 
+            "runs": 26, 
+            "high_score": 11, 
+            "fours": 2, 
+            "strike_rate": 118.18, 
+            "hundreds": 0, 
+            "balls_faced": 22, 
+            "fifties": 0, 
+            "sixes": 1, 
+            "avg": 26.0, 
+            "not_out": 3
+        }, 
+        "stumpings": 0
+    }, 
+    {
+        "catches": 1, 
+        "name": "Amit  Mishra", 
+        "matches": 11, 
+        "team": "DC", 
+        "bowling": {
+            "innings": 11, 
+            "overs_bowled": 40.0, 
+            "4w": 0, 
+            "5w": 0, 
+            "runs_conceded": 270, 
+            "strike_rate": 21.81, 
+            "wickets": 11, 
+            "avg": 24.54, 
+            "economy": 6.75
+        }, 
+        "batting": {
+            "innings": 4, 
+            "runs": 21, 
+            "high_score": 8, 
+            "fours": 2, 
+            "strike_rate": 87.5, 
+            "hundreds": 0, 
+            "balls_faced": 24, 
+            "fifties": 0, 
+            "sixes": 0, 
+            "avg": 10.5, 
+            "not_out": 2
+        }, 
+        "stumpings": 0
+    }, 
+    {
+        "catches": 5, 
+        "name": "Keemo  Paul", 
+        "matches": 8, 
+        "team": "DC", 
+        "bowling": {
+            "innings": 8, 
+            "overs_bowled": 27.1, 
+            "4w": 0, 
+            "5w": 0, 
+            "runs_conceded": 237, 
+            "strike_rate": 18.11, 
+            "wickets": 9, 
+            "avg": 26.33, 
+            "economy": 8.72
+        }, 
+        "batting": {
+            "innings": 6, 
+            "runs": 18, 
+            "high_score": 7, 
+            "fours": 1, 
+            "strike_rate": 75.0, 
+            "hundreds": 0, 
+            "balls_faced": 24, 
+            "fifties": 0, 
+            "sixes": 1, 
+            "avg": 3.6, 
+            "not_out": 1
+        }, 
+        "stumpings": 0
+    }, 
+    {
+        "catches": 6, 
+        "name": "Kagiso  Rabada", 
+        "matches": 12, 
+        "team": "DC", 
+        "bowling": {
+            "innings": 12, 
+            "overs_bowled": 47.0, 
+            "4w": 2, 
+            "5w": 0, 
+            "runs_conceded": 368, 
+            "strike_rate": 11.28, 
+            "wickets": 25, 
+            "avg": 14.72, 
+            "economy": 7.82
+        }, 
+        "batting": {
+            "innings": 4, 
+            "runs": 14, 
+            "high_score": 9, 
+            "fours": 0, 
+            "strike_rate": 93.33, 
+            "hundreds": 0, 
+            "balls_faced": 15, 
+            "fifties": 0, 
+            "sixes": 1, 
+            "avg": 4.66, 
+            "not_out": 1
+        }, 
+        "stumpings": 0
+    }, 
+    {
+        "catches": 1, 
+        "name": "Ishant  Sharma", 
+        "matches": 13, 
+        "team": "DC", 
+        "bowling": {
+            "innings": 13, 
+            "overs_bowled": 46.0, 
+            "4w": 0, 
+            "5w": 0, 
+            "runs_conceded": 349, 
+            "strike_rate": 21.23, 
+            "wickets": 13, 
+            "avg": 26.84, 
+            "economy": 7.58
+        }, 
+        "batting": {
+            "innings": 3, 
+            "runs": 10, 
+            "high_score": 10, 
+            "fours": 1, 
+            "strike_rate": 333.33, 
+            "hundreds": 0, 
+            "balls_faced": 3, 
+            "fifties": 0, 
+            "sixes": 1, 
+            "avg": 0.0, 
+            "not_out": 3
+        }, 
+        "stumpings": 0
+    }, 
+    {
+        "catches": 4, 
+        "name": "Andre  Russell", 
+        "matches": 14, 
+        "team": "KKR", 
+        "bowling": {
+            "innings": 12, 
+            "overs_bowled": 30.1, 
+            "4w": 0, 
+            "5w": 0, 
+            "runs_conceded": 287, 
+            "strike_rate": 16.45, 
+            "wickets": 11, 
+            "avg": 26.09, 
+            "economy": 9.51
+        }, 
+        "batting": {
+            "innings": 13, 
+            "runs": 510, 
+            "high_score": 80, 
+            "fours": 31, 
+            "strike_rate": 204.81, 
+            "hundreds": 0, 
+            "balls_faced": 249, 
+            "fifties": 4, 
+            "sixes": 52, 
+            "avg": 56.66, 
+            "not_out": 4
+        }, 
+        "stumpings": 0
+    }, 
+    {
+        "catches": 1, 
+        "name": "Chris  Lynn", 
+        "matches": 13, 
+        "team": "KKR", 
+        "batting": {
+            "innings": 13, 
+            "runs": 405, 
+            "high_score": 82, 
+            "fours": 41, 
+            "strike_rate": 139.65, 
+            "hundreds": 0, 
+            "balls_faced": 290, 
+            "fifties": 4, 
+            "sixes": 22, 
+            "avg": 31.15, 
+            "not_out": 0
+        }, 
+        "stumpings": 0
+    }, 
+    {
+        "catches": 3, 
+        "name": "Nitish  Rana", 
+        "matches": 14, 
+        "team": "KKR", 
+        "bowling": {
+            "innings": 6, 
+            "overs_bowled": 8.0, 
+            "4w": 0, 
+            "5w": 0, 
+            "runs_conceded": 72, 
+            "strike_rate": 16.0, 
+            "wickets": 3, 
+            "avg": 24.0, 
+            "economy": 9.0
+        }, 
+        "batting": {
+            "innings": 11, 
+            "runs": 344, 
+            "high_score": 85, 
+            "fours": 27, 
+            "strike_rate": 146.38, 
+            "hundreds": 0, 
+            "balls_faced": 235, 
+            "fifties": 3, 
+            "sixes": 21, 
+            "avg": 34.4, 
+            "not_out": 1
+        }, 
+        "stumpings": 0
+    }, 
+    {
+        "catches": 7, 
+        "name": "Shubman  Gill", 
+        "matches": 14, 
+        "team": "KKR", 
+        "batting": {
+            "innings": 13, 
+            "runs": 296, 
+            "high_score": 76, 
+            "fours": 21, 
+            "strike_rate": 124.36, 
+            "hundreds": 0, 
+            "balls_faced": 238, 
+            "fifties": 3, 
+            "sixes": 10, 
+            "avg": 32.88, 
+            "not_out": 4
+        }, 
+        "stumpings": 0
+    }, 
+    {
+        "catches": 4, 
+        "name": "Robin  Uthappa", 
+        "matches": 12, 
+        "team": "KKR", 
+        "batting": {
+            "innings": 11, 
+            "runs": 282, 
+            "high_score": 67, 
+            "fours": 28, 
+            "strike_rate": 115.1, 
+            "hundreds": 0, 
+            "balls_faced": 245, 
+            "fifties": 1, 
+            "sixes": 10, 
+            "avg": 31.33, 
+            "not_out": 2
+        }, 
+        "stumpings": 0
+    }, 
+    {
+        "catches": 7, 
+        "name": "Dinesh  Karthik", 
+        "matches": 14, 
+        "team": "KKR", 
+        "batting": {
+            "innings": 13, 
+            "runs": 253, 
+            "high_score": 97, 
+            "fours": 22, 
+            "strike_rate": 146.24, 
+            "hundreds": 0, 
+            "balls_faced": 173, 
+            "fifties": 2, 
+            "sixes": 14, 
+            "avg": 31.62, 
+            "not_out": 5
+        }, 
+        "stumpings": 0
+    }, 
+    {
+        "catches": 0, 
+        "name": "Sunil  Narine", 
+        "matches": 12, 
+        "team": "KKR", 
+        "bowling": {
+            "innings": 12, 
+            "overs_bowled": 44.2, 
+            "4w": 0, 
+            "5w": 0, 
+            "runs_conceded": 347, 
+            "strike_rate": 26.6, 
+            "wickets": 10, 
+            "avg": 34.7, 
+            "economy": 7.82
+        }, 
+        "batting": {
+            "innings": 9, 
+            "runs": 143, 
+            "high_score": 47, 
+            "fours": 17, 
+            "strike_rate": 166.27, 
+            "hundreds": 0, 
+            "balls_faced": 86, 
+            "fifties": 0, 
+            "sixes": 9, 
+            "avg": 17.87, 
+            "not_out": 1
+        }, 
+        "stumpings": 0
+    }, 
+    {
+        "catches": 5, 
+        "name": "Piyush  Chawla", 
+        "matches": 13, 
+        "team": "KKR", 
+        "bowling": {
+            "innings": 13, 
+            "overs_bowled": 44.3, 
+            "4w": 0, 
+            "5w": 0, 
+            "runs_conceded": 399, 
+            "strike_rate": 26.7, 
+            "wickets": 10, 
+            "avg": 39.9, 
+            "economy": 8.96
+        }, 
+        "batting": {
+            "innings": 5, 
+            "runs": 42, 
+            "high_score": 14, 
+            "fours": 4, 
+            "strike_rate": 113.51, 
+            "hundreds": 0, 
+            "balls_faced": 37, 
+            "fifties": 0, 
+            "sixes": 2, 
+            "avg": 14.0, 
+            "not_out": 2
+        }, 
+        "stumpings": 0
+    }, 
+    {
+        "catches": 1, 
+        "name": "Rinku  Singh", 
+        "matches": 5, 
+        "team": "KKR", 
+        "batting": {
+            "innings": 3, 
+            "runs": 37, 
+            "high_score": 30, 
+            "fours": 1, 
+            "strike_rate": 108.82, 
+            "hundreds": 0, 
+            "balls_faced": 34, 
+            "fifties": 0, 
+            "sixes": 2, 
+            "avg": 18.5, 
+            "not_out": 1
+        }, 
+        "stumpings": 0
+    }, 
+    {
+        "catches": 3, 
+        "name": "Kuldeep  Yadav", 
+        "matches": 9, 
+        "team": "KKR", 
+        "bowling": {
+            "innings": 9, 
+            "overs_bowled": 33.0, 
+            "4w": 0, 
+            "5w": 0, 
+            "runs_conceded": 286, 
+            "strike_rate": 49.5, 
+            "wickets": 4, 
+            "avg": 71.5, 
+            "economy": 8.66
+        }, 
+        "batting": {
+            "innings": 4, 
+            "runs": 12, 
+            "high_score": 10, 
+            "fours": 1, 
+            "strike_rate": 150.0, 
+            "hundreds": 0, 
+            "balls_faced": 8, 
+            "fifties": 0, 
+            "sixes": 0, 
+            "avg": 6.0, 
+            "not_out": 2
+        }, 
+        "stumpings": 0
+    }, 
+    {
+        "catches": 0, 
+        "name": "Carlos  Brathwaite", 
+        "matches": 2, 
+        "team": "KKR", 
+        "bowling": {
+            "innings": 2, 
+            "overs_bowled": 3.0, 
+            "4w": 0, 
+            "5w": 0, 
+            "runs_conceded": 29, 
+            "strike_rate": 0.0, 
+            "wickets": 0, 
+            "avg": 0.0, 
+            "economy": 9.66
+        }, 
+        "batting": {
+            "innings": 2, 
+            "runs": 11, 
+            "high_score": 6, 
+            "fours": 1, 
+            "strike_rate": 110.0, 
+            "hundreds": 0, 
+            "balls_faced": 10, 
+            "fifties": 0, 
+            "sixes": 0, 
+            "avg": 5.5, 
+            "not_out": 0
+        }, 
+        "stumpings": 0
+    }, 
+    {
+        "catches": 11, 
+        "name": "MS  Dhoni", 
+        "matches": 15, 
+        "team": "CSK", 
+        "batting": {
+            "innings": 12, 
+            "runs": 416, 
+            "high_score": 84, 
+            "fours": 22, 
+            "strike_rate": 134.62, 
+            "hundreds": 0, 
+            "balls_faced": 309, 
+            "fifties": 3, 
+            "sixes": 23, 
+            "avg": 83.2, 
+            "not_out": 7
+        }, 
+        "stumpings": 5
+    }, 
+    {
+        "catches": 6, 
+        "name": "Shane  Watson", 
+        "matches": 17, 
+        "team": "CSK", 
+        "batting": {
+            "innings": 17, 
+            "runs": 398, 
+            "high_score": 96, 
+            "fours": 42, 
+            "strike_rate": 127.56, 
+            "hundreds": 0, 
+            "balls_faced": 312, 
+            "fifties": 3, 
+            "sixes": 20, 
+            "avg": 23.41, 
+            "not_out": 0
+        }, 
+        "stumpings": 0
+    }, 
+    {
+        "catches": 12, 
+        "name": "Faf  du Plessis", 
+        "matches": 12, 
+        "team": "CSK", 
+        "batting": {
+            "innings": 12, 
+            "runs": 396, 
+            "high_score": 96, 
+            "fours": 36, 
+            "strike_rate": 123.36, 
+            "hundreds": 0, 
+            "balls_faced": 321, 
+            "fifties": 3, 
+            "sixes": 15, 
+            "avg": 36.0, 
+            "not_out": 1
+        }, 
+        "stumpings": 0
+    }, 
+    {
+        "catches": 7, 
+        "name": "Suresh  Raina", 
+        "matches": 17, 
+        "team": "CSK", 
+        "bowling": {
+            "innings": 1, 
+            "overs_bowled": 1.0, 
+            "4w": 0, 
+            "5w": 0, 
+            "runs_conceded": 6, 
+            "strike_rate": 0.0, 
+            "wickets": 0, 
+            "avg": 0.0, 
+            "economy": 6.0
+        }, 
+        "batting": {
+            "innings": 17, 
+            "runs": 383, 
+            "high_score": 59, 
+            "fours": 45, 
+            "strike_rate": 121.97, 
+            "hundreds": 0, 
+            "balls_faced": 314, 
+            "fifties": 3, 
+            "sixes": 9, 
+            "avg": 23.93, 
+            "not_out": 1
+        }, 
+        "stumpings": 0
+    }, 
+    {
+        "catches": 6, 
+        "name": "Ambati  Rayudu", 
+        "matches": 17, 
+        "team": "CSK", 
+        "batting": {
+            "innings": 17, 
+            "runs": 282, 
+            "high_score": 57, 
+            "fours": 20, 
+            "strike_rate": 93.06, 
+            "hundreds": 0, 
+            "balls_faced": 303, 
+            "fifties": 1, 
+            "sixes": 7, 
+            "avg": 23.5, 
+            "not_out": 5
+        }, 
+        "stumpings": 0
+    }, 
+    {
+        "catches": 4, 
+        "name": "Kedar  Jadhav", 
+        "matches": 14, 
+        "team": "CSK", 
+        "batting": {
+            "innings": 12, 
+            "runs": 162, 
+            "high_score": 58, 
+            "fours": 19, 
+            "strike_rate": 95.85, 
+            "hundreds": 0, 
+            "balls_faced": 169, 
+            "fifties": 1, 
+            "sixes": 3, 
+            "avg": 18.0, 
+            "not_out": 3
+        }, 
+        "stumpings": 0
+    }, 
+    {
+        "catches": 9, 
+        "name": "Ravindra  Jadeja", 
+        "matches": 16, 
+        "team": "CSK", 
+        "bowling": {
+            "innings": 16, 
+            "overs_bowled": 54.0, 
+            "4w": 0, 
+            "5w": 0, 
+            "runs_conceded": 343, 
+            "strike_rate": 21.6, 
+            "wickets": 15, 
+            "avg": 22.86, 
+            "economy": 6.35
+        }, 
+        "batting": {
+            "innings": 9, 
+            "runs": 106, 
+            "high_score": 31, 
+            "fours": 7, 
+            "strike_rate": 120.45, 
+            "hundreds": 0, 
+            "balls_faced": 88, 
+            "fifties": 0, 
+            "sixes": 4, 
+            "avg": 35.33, 
+            "not_out": 6
+        }, 
+        "stumpings": 0
+    }, 
+    {
+        "catches": 5, 
+        "name": "Dwayne  Bravo", 
+        "matches": 12, 
+        "team": "CSK", 
+        "bowling": {
+            "innings": 12, 
+            "overs_bowled": 41.1, 
+            "4w": 0, 
+            "5w": 0, 
+            "runs_conceded": 330, 
+            "strike_rate": 22.45, 
+            "wickets": 11, 
+            "avg": 30.0, 
+            "economy": 8.01
+        }, 
+        "batting": {
+            "innings": 9, 
+            "runs": 80, 
+            "high_score": 27, 
+            "fours": 6, 
+            "strike_rate": 121.21, 
+            "hundreds": 0, 
+            "balls_faced": 66, 
+            "fifties": 0, 
+            "sixes": 3, 
+            "avg": 16.0, 
+            "not_out": 4
+        }, 
+        "stumpings": 0
+    }, 
+    {
+        "catches": 1, 
+        "name": "Murali  Vijay", 
+        "matches": 2, 
+        "team": "CSK", 
+        "batting": {
+            "innings": 2, 
+            "runs": 64, 
+            "high_score": 38, 
+            "fours": 6, 
+            "strike_rate": 104.91, 
+            "hundreds": 0, 
+            "balls_faced": 61, 
+            "fifties": 0, 
+            "sixes": 1, 
+            "avg": 32.0, 
+            "not_out": 0
+        }, 
+        "stumpings": 0
+    }, 
+    {
+        "catches": 1, 
+        "name": "Mitchell  Santner", 
+        "matches": 4, 
+        "team": "CSK", 
+        "bowling": {
+            "innings": 4, 
+            "overs_bowled": 14.0, 
+            "4w": 0, 
+            "5w": 0, 
+            "runs_conceded": 94, 
+            "strike_rate": 21.0, 
+            "wickets": 4, 
+            "avg": 23.5, 
+            "economy": 6.71
+        }, 
+        "batting": {
+            "innings": 2, 
+            "runs": 32, 
+            "high_score": 22, 
+            "fours": 0, 
+            "strike_rate": 139.13, 
+            "hundreds": 0, 
+            "balls_faced": 23, 
+            "fifties": 0, 
+            "sixes": 3, 
+            "avg": 32.0, 
+            "not_out": 1
+        }, 
+        "stumpings": 0
+    }, 
+    {
+        "catches": 5, 
+        "name": "Shardul  Thakur", 
+        "matches": 10, 
+        "team": "CSK", 
+        "bowling": {
+            "innings": 9, 
+            "overs_bowled": 30.0, 
+            "4w": 0, 
+            "5w": 0, 
+            "runs_conceded": 281, 
+            "strike_rate": 22.5, 
+            "wickets": 8, 
+            "avg": 35.12, 
+            "economy": 9.36
+        }, 
+        "batting": {
+            "innings": 3, 
+            "runs": 14, 
+            "high_score": 12, 
+            "fours": 1, 
+            "strike_rate": 200.0, 
+            "hundreds": 0, 
+            "balls_faced": 7, 
+            "fifties": 0, 
+            "sixes": 1, 
+            "avg": 7.0, 
+            "not_out": 1
+        }, 
+        "stumpings": 0
+    }, 
+    {
+        "catches": 5, 
+        "name": "Virat  Kohli", 
+        "matches": 14, 
+        "team": "RCB", 
+        "batting": {
+            "innings": 14, 
+            "runs": 464, 
+            "high_score": 100, 
+            "fours": 46, 
+            "strike_rate": 141.46, 
+            "hundreds": 1, 
+            "balls_faced": 328, 
+            "fifties": 2, 
+            "sixes": 13, 
+            "avg": 33.14, 
+            "not_out": 0
+        }, 
+        "stumpings": 0
+    }, 
+    {
+        "catches": 6, 
+        "name": "AB  de Villiers", 
+        "matches": 13, 
+        "team": "RCB", 
+        "batting": {
+            "innings": 13, 
+            "runs": 442, 
+            "high_score": 82, 
+            "fours": 31, 
+            "strike_rate": 154.0, 
+            "hundreds": 0, 
+            "balls_faced": 287, 
+            "fifties": 5, 
+            "sixes": 26, 
+            "avg": 44.2, 
+            "not_out": 3
+        }, 
+        "stumpings": 0
+    }, 
+    {
+        "catches": 6, 
+        "name": "Parthiv  Patel", 
+        "matches": 14, 
+        "team": "RCB", 
+        "batting": {
+            "innings": 14, 
+            "runs": 373, 
+            "high_score": 67, 
+            "fours": 48, 
+            "strike_rate": 139.17, 
+            "hundreds": 0, 
+            "balls_faced": 268, 
+            "fifties": 2, 
+            "sixes": 10, 
+            "avg": 26.64, 
+            "not_out": 0
+        }, 
+        "stumpings": 2
+    }, 
+    {
+        "catches": 1, 
+        "name": "Moeen  Ali", 
+        "matches": 11, 
+        "team": "RCB", 
+        "bowling": {
+            "innings": 9, 
+            "overs_bowled": 25.0, 
+            "4w": 0, 
+            "5w": 0, 
+            "runs_conceded": 169, 
+            "strike_rate": 25.0, 
+            "wickets": 6, 
+            "avg": 28.16, 
+            "economy": 6.76
+        }, 
+        "batting": {
+            "innings": 10, 
+            "runs": 220, 
+            "high_score": 66, 
+            "fours": 16, 
+            "strike_rate": 165.41, 
+            "hundreds": 0, 
+            "balls_faced": 133, 
+            "fifties": 2, 
+            "sixes": 17, 
+            "avg": 27.5, 
+            "not_out": 2
+        }, 
+        "stumpings": 0
+    }, 
+    {
+        "catches": 2, 
+        "name": "Marcus  Stoinis", 
+        "matches": 10, 
+        "team": "RCB", 
+        "bowling": {
+            "innings": 6, 
+            "overs_bowled": 16.4, 
+            "4w": 0, 
+            "5w": 0, 
+            "runs_conceded": 145, 
+            "strike_rate": 50.0, 
+            "wickets": 2, 
+            "avg": 72.5, 
+            "economy": 8.7
+        }, 
+        "batting": {
+            "innings": 10, 
+            "runs": 211, 
+            "high_score": 46, 
+            "fours": 14, 
+            "strike_rate": 135.25, 
+            "hundreds": 0, 
+            "balls_faced": 156, 
+            "fifties": 0, 
+            "sixes": 10, 
+            "avg": 52.75, 
+            "not_out": 6
+        }, 
+        "stumpings": 0
+    }, 
+    {
+        "catches": 1, 
+        "name": "Gurkeerat  Mann Singh", 
+        "matches": 3, 
+        "team": "RCB", 
+        "batting": {
+            "innings": 3, 
+            "runs": 98, 
+            "high_score": 65, 
+            "fours": 11, 
+            "strike_rate": 140.0, 
+            "hundreds": 0, 
+            "balls_faced": 70, 
+            "fifties": 1, 
+            "sixes": 2, 
+            "avg": 32.66, 
+            "not_out": 0
+        }, 
+        "stumpings": 0
+    }, 
+    {
+        "catches": 3, 
+        "name": "Shimron  Hetmyer", 
+        "matches": 5, 
+        "team": "RCB", 
+        "batting": {
+            "innings": 5, 
+            "runs": 90, 
+            "high_score": 75, 
+            "fours": 4, 
+            "strike_rate": 123.28, 
+            "hundreds": 0, 
+            "balls_faced": 73, 
+            "fifties": 1, 
+            "sixes": 7, 
+            "avg": 18.0, 
+            "not_out": 0
+        }, 
+        "stumpings": 0
+    }, 
+    {
+        "catches": 1, 
+        "name": "Akshdeep  Nath", 
+        "matches": 8, 
+        "team": "RCB", 
+        "batting": {
+            "innings": 5, 
+            "runs": 61, 
+            "high_score": 24, 
+            "fours": 5, 
+            "strike_rate": 107.01, 
+            "hundreds": 0, 
+            "balls_faced": 57, 
+            "fifties": 0, 
+            "sixes": 2, 
+            "avg": 12.2, 
+            "not_out": 0
+        }, 
+        "stumpings": 0
+    }, 
+    {
+        "catches": 1, 
+        "name": "Colin  de Grandhomme", 
+        "matches": 4, 
+        "team": "RCB", 
+        "bowling": {
+            "innings": 3, 
+            "overs_bowled": 5.0, 
+            "4w": 0, 
+            "5w": 0, 
+            "runs_conceded": 55, 
+            "strike_rate": 0.0, 
+            "wickets": 0, 
+            "avg": 0.0, 
+            "economy": 11.0
+        }, 
+        "batting": {
+            "innings": 4, 
+            "runs": 46, 
+            "high_score": 37, 
+            "fours": 4, 
+            "strike_rate": 93.87, 
+            "hundreds": 0, 
+            "balls_faced": 49, 
+            "fifties": 0, 
+            "sixes": 2, 
+            "avg": 15.33, 
+            "not_out": 1
+        }, 
+        "stumpings": 0
+    }, 
+    {
+        "catches": 1, 
+        "name": "Shivam  Dube", 
+        "matches": 4, 
+        "team": "RCB", 
+        "bowling": {
+            "innings": 2, 
+            "overs_bowled": 1.4, 
+            "4w": 0, 
+            "5w": 0, 
+            "runs_conceded": 8, 
+            "strike_rate": 0.0, 
+            "wickets": 0, 
+            "avg": 0.0, 
+            "economy": 4.8
+        }, 
+        "batting": {
+            "innings": 4, 
+            "runs": 40, 
+            "high_score": 24, 
+            "fours": 1, 
+            "strike_rate": 121.21, 
+            "hundreds": 0, 
+            "balls_faced": 33, 
+            "fifties": 0, 
+            "sixes": 3, 
+            "avg": 13.33, 
+            "not_out": 1
+        }, 
+        "stumpings": 0
+    }, 
+    {
+        "catches": 4, 
+        "name": "Umesh  Yadav", 
+        "matches": 11, 
+        "team": "RCB", 
+        "bowling": {
+            "innings": 11, 
+            "overs_bowled": 37.5, 
+            "4w": 0, 
+            "5w": 0, 
+            "runs_conceded": 371, 
+            "strike_rate": 28.37, 
+            "wickets": 8, 
+            "avg": 46.37, 
+            "economy": 9.8
+        }, 
+        "batting": {
+            "innings": 7, 
+            "runs": 25, 
+            "high_score": 14, 
+            "fours": 3, 
+            "strike_rate": 100.0, 
+            "hundreds": 0, 
+            "balls_faced": 25, 
+            "fifties": 0, 
+            "sixes": 1, 
+            "avg": 12.5, 
+            "not_out": 5
+        }, 
+        "stumpings": 0
+    }, 
+    {
+        "catches": 0, 
+        "name": "Prayas  Ray Barman", 
+        "matches": 1, 
+        "team": "RCB", 
+        "batting": {
+            "innings": 1, 
+            "runs": 19, 
+            "high_score": 19, 
+            "fours": 2, 
+            "strike_rate": 79.16, 
+            "hundreds": 0, 
+            "balls_faced": 24, 
+            "fifties": 0, 
+            "sixes": 0, 
+            "avg": 19.0, 
+            "not_out": 0
+        }, 
+        "stumpings": 0
+    }, 
+    {
+        "catches": 3, 
+        "name": "Pawan  Negi", 
+        "matches": 7, 
+        "team": "RCB", 
+        "bowling": {
+            "innings": 4, 
+            "overs_bowled": 11.1, 
+            "4w": 0, 
+            "5w": 0, 
+            "runs_conceded": 102, 
+            "strike_rate": 22.33, 
+            "wickets": 3, 
+            "avg": 34.0, 
+            "economy": 9.13
+        }, 
+        "batting": {
+            "innings": 4, 
+            "runs": 9, 
+            "high_score": 5, 
+            "fours": 1, 
+            "strike_rate": 75.0, 
+            "hundreds": 0, 
+            "balls_faced": 12, 
+            "fifties": 0, 
+            "sixes": 0, 
+            "avg": 2.25, 
+            "not_out": 0
+        }, 
+        "stumpings": 0
+    }, 
+    {
+        "catches": 3, 
+        "name": "Tim  Southee", 
+        "matches": 3, 
+        "team": "RCB", 
+        "bowling": {
+            "innings": 3, 
+            "overs_bowled": 9.0, 
+            "4w": 0, 
+            "5w": 0, 
+            "runs_conceded": 118, 
+            "strike_rate": 54.0, 
+            "wickets": 1, 
+            "avg": 118.0, 
+            "economy": 13.11
+        }, 
+        "batting": {
+            "innings": 1, 
+            "runs": 9, 
+            "high_score": 9, 
+            "fours": 0, 
+            "strike_rate": 100.0, 
+            "hundreds": 0, 
+            "balls_faced": 9, 
+            "fifties": 0, 
+            "sixes": 0, 
+            "avg": 0.0, 
+            "not_out": 1
+        }, 
+        "stumpings": 0
+    }, 
+    {
+        "catches": 5, 
+        "name": "Ajinkya  Rahane", 
+        "matches": 14, 
+        "team": "RR", 
+        "batting": {
+            "innings": 13, 
+            "runs": 393, 
+            "high_score": 105, 
+            "fours": 45, 
+            "strike_rate": 137.89, 
+            "hundreds": 1, 
+            "balls_faced": 285, 
+            "fifties": 1, 
+            "sixes": 9, 
+            "avg": 32.75, 
+            "not_out": 1
+        }, 
+        "stumpings": 0
+    }, 
+    {
+        "catches": 4, 
+        "name": "Sanju  Samson", 
+        "matches": 12, 
+        "team": "RR", 
+        "batting": {
+            "innings": 12, 
+            "runs": 342, 
+            "high_score": 102, 
+            "fours": 28, 
+            "strike_rate": 148.69, 
+            "hundreds": 1, 
+            "balls_faced": 230, 
+            "fifties": 0, 
+            "sixes": 13, 
+            "avg": 34.2, 
+            "not_out": 2
+        }, 
+        "stumpings": 1
+    }, 
+    {
+        "catches": 3, 
+        "name": "Steve  Smith", 
+        "matches": 12, 
+        "team": "RR", 
+        "batting": {
+            "innings": 10, 
+            "runs": 319, 
+            "high_score": 73, 
+            "fours": 30, 
+            "strike_rate": 116.0, 
+            "hundreds": 0, 
+            "balls_faced": 275, 
+            "fifties": 3, 
+            "sixes": 4, 
+            "avg": 39.87, 
+            "not_out": 2
+        }, 
+        "stumpings": 0
+    }, 
+    {
+        "catches": 8, 
+        "name": "Jos  Buttler", 
+        "matches": 8, 
+        "team": "RR", 
+        "batting": {
+            "innings": 8, 
+            "runs": 311, 
+            "high_score": 89, 
+            "fours": 38, 
+            "strike_rate": 151.7, 
+            "hundreds": 0, 
+            "balls_faced": 205, 
+            "fifties": 3, 
+            "sixes": 14, 
+            "avg": 38.87, 
+            "not_out": 0
+        }, 
+        "stumpings": 0
+    }, 
+    {
+        "catches": 5, 
+        "name": "Riyan  Parag", 
+        "matches": 7, 
+        "team": "RR", 
+        "bowling": {
+            "innings": 7, 
+            "overs_bowled": 14.0, 
+            "4w": 0, 
+            "5w": 0, 
+            "runs_conceded": 121, 
+            "strike_rate": 42.0, 
+            "wickets": 2, 
+            "avg": 60.5, 
+            "economy": 8.64
+        }, 
+        "batting": {
+            "innings": 5, 
+            "runs": 160, 
+            "high_score": 50, 
+            "fours": 17, 
+            "strike_rate": 126.98, 
+            "hundreds": 0, 
+            "balls_faced": 126, 
+            "fifties": 1, 
+            "sixes": 5, 
+            "avg": 32.0, 
+            "not_out": 0
+        }, 
+        "stumpings": 0
+    }, 
+    {
+        "catches": 3, 
+        "name": "Rahul  Tripathi", 
+        "matches": 8, 
+        "team": "RR", 
+        "batting": {
+            "innings": 7, 
+            "runs": 141, 
+            "high_score": 50, 
+            "fours": 13, 
+            "strike_rate": 119.49, 
+            "hundreds": 0, 
+            "balls_faced": 118, 
+            "fifties": 1, 
+            "sixes": 2, 
+            "avg": 23.5, 
+            "not_out": 1
+        }, 
+        "stumpings": 0
+    }, 
+    {
+        "catches": 3, 
+        "name": "Ben  Stokes", 
+        "matches": 9, 
+        "team": "RR", 
+        "bowling": {
+            "innings": 6, 
+            "overs_bowled": 16.5, 
+            "4w": 0, 
+            "5w": 0, 
+            "runs_conceded": 189, 
+            "strike_rate": 16.83, 
+            "wickets": 6, 
+            "avg": 31.5, 
+            "economy": 11.22
+        }, 
+        "batting": {
+            "innings": 9, 
+            "runs": 123, 
+            "high_score": 46, 
+            "fours": 8, 
+            "strike_rate": 124.24, 
+            "hundreds": 0, 
+            "balls_faced": 99, 
+            "fifties": 0, 
+            "sixes": 4, 
+            "avg": 20.5, 
+            "not_out": 3
+        }, 
+        "stumpings": 0
+    }, 
+    {
+        "catches": 4, 
+        "name": "Liam  Livingstone", 
+        "matches": 4, 
+        "team": "RR", 
+        "bowling": {
+            "innings": 1, 
+            "overs_bowled": 1.0, 
+            "4w": 0, 
+            "5w": 0, 
+            "runs_conceded": 13, 
+            "strike_rate": 0.0, 
+            "wickets": 0, 
+            "avg": 0.0, 
+            "economy": 13.0
+        }, 
+        "batting": {
+            "innings": 4, 
+            "runs": 71, 
+            "high_score": 44, 
+            "fours": 6, 
+            "strike_rate": 147.91, 
+            "hundreds": 0, 
+            "balls_faced": 48, 
+            "fifties": 0, 
+            "sixes": 5, 
+            "avg": 23.66, 
+            "not_out": 1
+        }, 
+        "stumpings": 0
+    }, 
+    {
+        "catches": 0, 
+        "name": "Stuart  Binny", 
+        "matches": 8, 
+        "team": "RR", 
+        "bowling": {
+            "innings": 5, 
+            "overs_bowled": 7.0, 
+            "4w": 0, 
+            "5w": 0, 
+            "runs_conceded": 44, 
+            "strike_rate": 42.0, 
+            "wickets": 1, 
+            "avg": 44.0, 
+            "economy": 6.28
+        }, 
+        "batting": {
+            "innings": 5, 
+            "runs": 70, 
+            "high_score": 33, 
+            "fours": 5, 
+            "strike_rate": 175.0, 
+            "hundreds": 0, 
+            "balls_faced": 40, 
+            "fifties": 0, 
+            "sixes": 4, 
+            "avg": 23.33, 
+            "not_out": 2
+        }, 
+        "stumpings": 0
+    }, 
+    {
+        "catches": 3, 
+        "name": "Jofra  Archer", 
+        "matches": 11, 
+        "team": "RR", 
+        "bowling": {
+            "innings": 11, 
+            "overs_bowled": 43.0, 
+            "4w": 0, 
+            "5w": 0, 
+            "runs_conceded": 291, 
+            "strike_rate": 23.45, 
+            "wickets": 11, 
+            "avg": 26.45, 
+            "economy": 6.76,
+            "maidens":  2
+        }, 
+        "batting": {
+            "innings": 5, 
+            "runs": 67, 
+            "high_score": 27, 
+            "fours": 4, 
+            "strike_rate": 167.5, 
+            "hundreds": 0, 
+            "balls_faced": 40, 
+            "fifties": 0, 
+            "sixes": 4, 
+            "avg": 33.5, 
+            "not_out": 3
+        }, 
+        "stumpings": 0
+    }, 
+    {
+        "catches": 5, 
+        "name": "Shreyas  Gopal", 
+        "matches": 14, 
+        "team": "RR", 
+        "bowling": {
+            "innings": 14, 
+            "overs_bowled": 48.0, 
+            "4w": 0, 
+            "5w": 0, 
+            "runs_conceded": 347, 
+            "strike_rate": 14.4, 
+            "wickets": 20, 
+            "avg": 17.35, 
+            "economy": 7.22
+        }, 
+        "batting": {
+            "innings": 7, 
+            "runs": 63, 
+            "high_score": 19, 
+            "fours": 8, 
+            "strike_rate": 136.95, 
+            "hundreds": 0, 
+            "balls_faced": 46, 
+            "fifties": 0, 
+            "sixes": 1, 
+            "avg": 15.75, 
+            "not_out": 3
+        }, 
+        "stumpings": 0
+    }, 
+    {
+        "catches": 0, 
+        "name": "Krishnappa  Gowtham", 
+        "matches": 7, 
+        "team": "RR", 
+        "bowling": {
+            "innings": 7, 
+            "overs_bowled": 20.0, 
+            "4w": 0, 
+            "5w": 0, 
+            "runs_conceded": 166, 
+            "strike_rate": 120.0, 
+            "wickets": 1, 
+            "avg": 166.0, 
+            "economy": 8.3
+        }, 
+        "batting": {
+            "innings": 4, 
+            "runs": 18, 
+            "high_score": 9, 
+            "fours": 1, 
+            "strike_rate": 94.73, 
+            "hundreds": 0, 
+            "balls_faced": 19, 
+            "fifties": 0, 
+            "sixes": 1, 
+            "avg": 6.0, 
+            "not_out": 1
+        }, 
+        "stumpings": 0
+    }, 
+    {
+        "catches": 0, 
+        "name": "Khaleel  Ahmed", 
+        "matches": 9, 
+        "team": "SRH", 
+        "bowling": {
+            "innings": 9, 
+            "overs_bowled": 34.5, 
+            "4w": 0, 
+            "5w": 0, 
+            "runs_conceded": 287, 
+            "strike_rate": 11.0, 
+            "wickets": 19, 
+            "avg": 15.1, 
+            "economy": 8.23
+        }, 
+        "stumpings": 0
+    }, 
+    {
+        "catches": 1, 
+        "name": "Sandeep  Sharma", 
+        "matches": 11, 
+        "team": "SRH", 
+        "bowling": {
+            "innings": 11, 
+            "overs_bowled": 42.4, 
+            "4w": 0, 
+            "5w": 0, 
+            "runs_conceded": 352, 
+            "strike_rate": 21.33, 
+            "wickets": 12, 
+            "avg": 29.33, 
+            "economy": 8.25
+        }, 
+        "stumpings": 0
+    }, 
+    {
+        "catches": 1, 
+        "name": "Siddarth  Kaul", 
+        "matches": 7, 
+        "team": "SRH", 
+        "bowling": {
+            "innings": 7, 
+            "overs_bowled": 27.0, 
+            "4w": 0, 
+            "5w": 0, 
+            "runs_conceded": 242, 
+            "strike_rate": 27.0, 
+            "wickets": 6, 
+            "avg": 40.33, 
+            "economy": 8.96
+        }, 
+        "stumpings": 0
+    }, 
+    {
+        "catches": 0, 
+        "name": "Shahbaz  Nadeem", 
+        "matches": 3, 
+        "team": "SRH", 
+        "bowling": {
+            "innings": 3, 
+            "overs_bowled": 9.0, 
+            "4w": 0, 
+            "5w": 0, 
+            "runs_conceded": 90, 
+            "strike_rate": 27.0, 
+            "wickets": 2, 
+            "avg": 45.0, 
+            "economy": 10.0
+        }, 
+        "stumpings": 0
+    }, 
+    {
+        "catches": 1, 
+        "name": "Abhishek  Sharma", 
+        "matches": 3, 
+        "team": "SRH", 
+        "bowling": {
+            "innings": 2, 
+            "overs_bowled": 2.0, 
+            "4w": 0, 
+            "5w": 0, 
+            "runs_conceded": 21, 
+            "strike_rate": 12.0, 
+            "wickets": 1, 
+            "avg": 21.0, 
+            "economy": 10.5
+        }, 
+        "stumpings": 0
+    }, 
+    {
+        "catches": 0, 
+        "name": "Basil  Thampi", 
+        "matches": 3, 
+        "team": "SRH", 
+        "bowling": {
+            "innings": 3, 
+            "overs_bowled": 12.0, 
+            "4w": 0, 
+            "5w": 0, 
+            "runs_conceded": 110, 
+            "strike_rate": 0.0, 
+            "wickets": 0, 
+            "avg": 0.0, 
+            "economy": 9.16
+        }, 
+        "stumpings": 0
+    }, 
+    {
+        "matches": 14, 
+        "bowling": {
+            "innings": 14, 
+            "overs_bowled": 54.0, 
+            "4w": 0, 
+            "5w": 0, 
+            "runs_conceded": 469, 
+            "strike_rate": 17.05, 
+            "wickets": 19, 
+            "avg": 24.68, 
+            "economy": 8.68
+        }, 
+        "name": "Mohammad  Shami", 
+        "team": "KXIP"
+    }, 
+    {
+        "catches": 1, 
+        "name": "Hardus  Viljoen", 
+        "matches": 6, 
+        "team": "KXIP", 
+        "bowling": {
+            "innings": 6, 
+            "overs_bowled": 23.0, 
+            "4w": 0, 
+            "5w": 0, 
+            "runs_conceded": 222, 
+            "strike_rate": 19.71, 
+            "wickets": 7, 
+            "avg": 31.71, 
+            "economy": 9.65
+        }, 
+        "stumpings": 0
+    }, 
+    {
+        "catches": 3, 
+        "name": "Murugan  Ashwin", 
+        "matches": 10, 
+        "team": "KXIP", 
+        "bowling": {
+            "innings": 10, 
+            "overs_bowled": 34.0, 
+            "4w": 0, 
+            "5w": 0, 
+            "runs_conceded": 255, 
+            "strike_rate": 40.8, 
+            "wickets": 5, 
+            "avg": 51.0, 
+            "economy": 7.5
+        }, 
+        "stumpings": 0
+    }, 
+    {
+        "catches": 1, 
+        "name": "Ankit  Rajpoot", 
+        "matches": 4, 
+        "team": "KXIP", 
+        "bowling": {
+            "innings": 4, 
+            "overs_bowled": 16.0, 
+            "4w": 0, 
+            "5w": 0, 
+            "runs_conceded": 152, 
+            "strike_rate": 32.0, 
+            "wickets": 3, 
+            "avg": 50.66, 
+            "economy": 9.5
+        }, 
+        "stumpings": 0
+    }, 
+    {
+        "catches": 1, 
+        "name": "Mujeeb  Ur Rahman", 
+        "matches": 5, 
+        "team": "KXIP", 
+        "bowling": {
+            "innings": 5, 
+            "overs_bowled": 19.0, 
+            "4w": 0, 
+            "5w": 0, 
+            "runs_conceded": 191, 
+            "strike_rate": 38.0, 
+            "wickets": 3, 
+            "avg": 63.66, 
+            "economy": 10.05
+        }, 
+        "stumpings": 0
+    }, 
+    {
+        "catches": 2, 
+        "name": "Andrew  Tye", 
+        "matches": 6, 
+        "team": "KXIP", 
+        "bowling": {
+            "innings": 6, 
+            "overs_bowled": 22.0, 
+            "4w": 0, 
+            "5w": 0, 
+            "runs_conceded": 233, 
+            "strike_rate": 44.0, 
+            "wickets": 3, 
+            "avg": 77.66, 
+            "economy": 10.59
+        }, 
+        "stumpings": 0
+    }, 
+    {
+        "catches": 0, 
+        "name": "Arshdeep  Singh", 
+        "matches": 3, 
+        "team": "KXIP", 
+        "bowling": {
+            "innings": 3, 
+            "overs_bowled": 10.0, 
+            "4w": 0, 
+            "5w": 0, 
+            "runs_conceded": 109, 
+            "strike_rate": 20.0, 
+            "wickets": 3, 
+            "avg": 36.33, 
+            "economy": 10.9
+        }, 
+        "stumpings": 0
+    }, 
+    {
+        "catches": 0, 
+        "name": "Varun  Chakravarthy", 
+        "matches": 1, 
+        "team": "KXIP", 
+        "bowling": {
+            "innings": 1, 
+            "overs_bowled": 3.0, 
+            "4w": 0, 
+            "5w": 0, 
+            "runs_conceded": 35, 
+            "strike_rate": 18.0, 
+            "wickets": 1, 
+            "avg": 35.0, 
+            "economy": 11.66
+        }, 
+        "stumpings": 0
+    }, 
+    {
+        "catches": 2, 
+        "name": "Jasprit  Bumrah", 
+        "matches": 16, 
+        "team": "MI", 
+        "bowling": {
+            "innings": 16, 
+            "overs_bowled": 61.4, 
+            "4w": 0, 
+            "5w": 0, 
+            "runs_conceded": 409, 
+            "strike_rate": 19.47, 
+            "wickets": 19, 
+            "avg": 21.52, 
+            "economy": 6.63
+        }, 
+        "stumpings": 0
+    }, 
+    {
+        "catches": 1, 
+        "name": "Lasith  Malinga", 
+        "matches": 12, 
+        "team": "MI", 
+        "bowling": {
+            "innings": 12, 
+            "overs_bowled": 44.5, 
+            "4w": 2, 
+            "5w": 0, 
+            "runs_conceded": 438, 
+            "strike_rate": 16.81, 
+            "wickets": 16, 
+            "avg": 27.37, 
+            "economy": 9.76
+        }, 
+        "stumpings": 0
+    }, 
+    {
+        "catches": 0, 
+        "name": "Jason  Behrendorff", 
+        "matches": 5, 
+        "team": "MI", 
+        "bowling": {
+            "innings": 5, 
+            "overs_bowled": 19.0, 
+            "4w": 0, 
+            "5w": 0, 
+            "runs_conceded": 165, 
+            "strike_rate": 22.8, 
+            "wickets": 5, 
+            "avg": 33.0, 
+            "economy": 8.68
+        }, 
+        "stumpings": 0
+    }, 
+    {
+        "catches": 0, 
+        "name": "Anukul  Roy", 
+        "matches": 1, 
+        "team": "MI", 
+        "bowling": {
+            "innings": 1, 
+            "overs_bowled": 2.0, 
+            "4w": 0, 
+            "5w": 0, 
+            "runs_conceded": 11, 
+            "strike_rate": 12.0, 
+            "wickets": 1, 
+            "avg": 11.0, 
+            "economy": 5.5
+        }, 
+        "stumpings": 0
+    }, 
+    {
+        "catches": 2, 
+        "name": "Jayant  Yadav", 
+        "matches": 2, 
+        "team": "MI", 
+        "bowling": {
+            "innings": 2, 
+            "overs_bowled": 7.0, 
+            "4w": 0, 
+            "5w": 0, 
+            "runs_conceded": 50, 
+            "strike_rate": 42.0, 
+            "wickets": 1, 
+            "avg": 50.0, 
+            "economy": 7.14
+        }, 
+        "stumpings": 0
+    }, 
+    {
+        "catches": 0, 
+        "name": "Mayank  Markande", 
+        "matches": 3, 
+        "team": "MI", 
+        "bowling": {
+            "innings": 3, 
+            "overs_bowled": 6.0, 
+            "4w": 0, 
+            "5w": 0, 
+            "runs_conceded": 59, 
+            "strike_rate": 36.0, 
+            "wickets": 1, 
+            "avg": 59.0, 
+            "economy": 9.83
+        }, 
+        "stumpings": 0
+    }, 
+    {
+        "catches": 1, 
+        "name": "Rasikh  Salam", 
+        "matches": 1, 
+        "team": "MI", 
+        "bowling": {
+            "innings": 1, 
+            "overs_bowled": 4.0, 
+            "4w": 0, 
+            "5w": 0, 
+            "runs_conceded": 42, 
+            "strike_rate": 0.0, 
+            "wickets": 0, 
+            "avg": 0.0, 
+            "economy": 10.5
+        }, 
+        "stumpings": 0
+    }, 
+    {
+        "catches": 0, 
+        "name": "Barinder  Sran", 
+        "matches": 2, 
+        "team": "MI", 
+        "bowling": {
+            "innings": 2, 
+            "overs_bowled": 4.0, 
+            "4w": 0, 
+            "5w": 0, 
+            "runs_conceded": 51, 
+            "strike_rate": 0.0, 
+            "wickets": 0, 
+            "avg": 0.0, 
+            "economy": 12.75
+        }, 
+        "stumpings": 0
+    }, 
+    {
+        "catches": 2, 
+        "name": "Sandeep  Lamichhane", 
+        "matches": 6, 
+        "team": "DC", 
+        "bowling": {
+            "innings": 6, 
+            "overs_bowled": 23.0, 
+            "4w": 0, 
+            "5w": 0, 
+            "runs_conceded": 210, 
+            "strike_rate": 17.25, 
+            "wickets": 8, 
+            "avg": 26.25, 
+            "economy": 9.13
+        }, 
+        "stumpings": 0
+    }, 
+    {
+        "catches": 2, 
+        "name": "Trent  Boult", 
+        "matches": 5, 
+        "team": "DC", 
+        "bowling": {
+            "innings": 5, 
+            "overs_bowled": 19.0, 
+            "4w": 0, 
+            "5w": 0, 
+            "runs_conceded": 163, 
+            "strike_rate": 22.8, 
+            "wickets": 5, 
+            "avg": 32.6, 
+            "economy": 8.57
+        }, 
+        "stumpings": 0
+    }, 
+    {
+        "catches": 0, 
+        "name": "Jagadeesha  Suchith", 
+        "matches": 1, 
+        "team": "DC", 
+        "bowling": {
+            "innings": 1, 
+            "overs_bowled": 4.0, 
+            "4w": 0, 
+            "5w": 0, 
+            "runs_conceded": 28, 
+            "strike_rate": 12.0, 
+            "wickets": 2, 
+            "avg": 14.0, 
+            "economy": 7.0
+        }, 
+        "stumpings": 0
+    }, 
+    {
+        "catches": 0, 
+        "name": "Harshal  Patel", 
+        "matches": 2, 
+        "team": "DC", 
+        "bowling": {
+            "innings": 2, 
+            "overs_bowled": 8.0, 
+            "4w": 0, 
+            "5w": 0, 
+            "runs_conceded": 77, 
+            "strike_rate": 24.0, 
+            "wickets": 2, 
+            "avg": 38.5, 
+            "economy": 9.62
+        }, 
+        "stumpings": 0
+    }, 
+    {
+        "catches": 0, 
+        "name": "Hanuma  Vihari", 
+        "matches": 2, 
+        "team": "DC", 
+        "bowling": {
+            "innings": 1, 
+            "overs_bowled": 1.0, 
+            "4w": 0, 
+            "5w": 0, 
+            "runs_conceded": 9, 
+            "strike_rate": 0.0, 
+            "wickets": 0, 
+            "avg": 0.0, 
+            "economy": 9.0
+        }, 
+        "stumpings": 0
+    }, 
+    {
+        "catches": 1, 
+        "name": "Avesh  Khan", 
+        "matches": 1, 
+        "team": "DC", 
+        "bowling": {
+            "innings": 1, 
+            "overs_bowled": 3.0, 
+            "4w": 0, 
+            "5w": 0, 
+            "runs_conceded": 30, 
+            "strike_rate": 0.0, 
+            "wickets": 0, 
+            "avg": 0.0, 
+            "economy": 10.0
+        }, 
+        "stumpings": 0
+    }, 
+    {
+        "catches": 0, 
+        "name": "Harry  Gurney", 
+        "matches": 8, 
+        "team": "KKR", 
+        "bowling": {
+            "innings": 8, 
+            "overs_bowled": 27.0, 
+            "4w": 0, 
+            "5w": 0, 
+            "runs_conceded": 238, 
+            "strike_rate": 23.14, 
+            "wickets": 7, 
+            "avg": 34.0, 
+            "economy": 8.81
+        }, 
+        "stumpings": 0
+    }, 
+    {
+        "catches": 2, 
+        "name": "Prasidh  Krishna", 
+        "matches": 11, 
+        "team": "KKR", 
+        "bowling": {
+            "innings": 11, 
+            "overs_bowled": 40.2, 
+            "4w": 0, 
+            "5w": 0, 
+            "runs_conceded": 377, 
+            "strike_rate": 60.5, 
+            "wickets": 4, 
+            "avg": 94.25, 
+            "economy": 9.34
+        }, 
+        "stumpings": 0
+    }, 
+    {
+        "catches": 1, 
+        "name": "Sandeep  Warrier", 
+        "matches": 3, 
+        "team": "KKR", 
+        "bowling": {
+            "innings": 3, 
+            "overs_bowled": 12.0, 
+            "4w": 0, 
+            "5w": 0, 
+            "runs_conceded": 85, 
+            "strike_rate": 36.0, 
+            "wickets": 2, 
+            "avg": 42.5, 
+            "economy": 7.08
+        }, 
+        "stumpings": 0
+    }, 
+    {
+        "catches": 0, 
+        "name": "Lockie  Ferguson", 
+        "matches": 5, 
+        "team": "KKR", 
+        "bowling": {
+            "innings": 5, 
+            "overs_bowled": 17.0, 
+            "4w": 0, 
+            "5w": 0, 
+            "runs_conceded": 183, 
+            "strike_rate": 51.0, 
+            "wickets": 2, 
+            "avg": 91.5, 
+            "economy": 10.76
+        }, 
+        "stumpings": 0
+    }, 
+    {
+        "catches": 0, 
+        "name": "Prithvi  Raj", 
+        "matches": 2, 
+        "team": "KKR", 
+        "bowling": {
+            "innings": 2, 
+            "overs_bowled": 5.0, 
+            "4w": 0, 
+            "5w": 0, 
+            "runs_conceded": 57, 
+            "strike_rate": 30.0, 
+            "wickets": 1, 
+            "avg": 57.0, 
+            "economy": 11.4
+        }, 
+        "stumpings": 0
+    }, 
+    {
+        "catches": 6, 
+        "name": "Imran  Tahir", 
+        "matches": 17, 
+        "team": "CSK", 
+        "bowling": {
+            "innings": 17, 
+            "overs_bowled": 64.2, 
+            "4w": 2, 
+            "5w": 0, 
+            "runs_conceded": 431, 
+            "strike_rate": 14.84, 
+            "wickets": 26, 
+            "avg": 16.57, 
+            "economy": 6.69
+        }, 
+        "stumpings": 0
+    }, 
+    {
+        "catches": 2, 
+        "name": "Deepak  Chahar", 
+        "matches": 17, 
+        "team": "CSK", 
+        "bowling": {
+            "innings": 17, 
+            "overs_bowled": 64.3, 
+            "4w": 0, 
+            "5w": 0, 
+            "runs_conceded": 482, 
+            "strike_rate": 17.59, 
+            "wickets": 22, 
+            "avg": 21.9, 
+            "economy": 7.47,
+            "maidens":  2
+        }, 
+        "stumpings": 0
+    }, 
+    {
+        "catches": 4, 
+        "name": "Harbhajan  Singh", 
+        "matches": 11, 
+        "team": "CSK", 
+        "bowling": {
+            "innings": 11, 
+            "overs_bowled": 44.0, 
+            "4w": 0, 
+            "5w": 0, 
+            "runs_conceded": 312, 
+            "strike_rate": 16.5, 
+            "wickets": 16, 
+            "avg": 19.5, 
+            "economy": 7.09
+        }, 
+        "stumpings": 0
+    }, 
+    {
+        "catches": 0, 
+        "name": "Scott  Kuggeleijn", 
+        "matches": 2, 
+        "team": "CSK", 
+        "bowling": {
+            "innings": 2, 
+            "overs_bowled": 8.0, 
+            "4w": 0, 
+            "5w": 0, 
+            "runs_conceded": 71, 
+            "strike_rate": 24.0, 
+            "wickets": 2, 
+            "avg": 35.5, 
+            "economy": 8.87
+        }, 
+        "stumpings": 0
+    }, 
+    {
+        "catches": 0, 
+        "name": "Mohit  Sharma", 
+        "matches": 1, 
+        "team": "CSK", 
+        "bowling": {
+            "innings": 1, 
+            "overs_bowled": 3.0, 
+            "4w": 0, 
+            "5w": 0, 
+            "runs_conceded": 27, 
+            "strike_rate": 18.0, 
+            "wickets": 1, 
+            "avg": 27.0, 
+            "economy": 9.0
+        }, 
+        "stumpings": 0
+    }, 
+    {
+        "catches": 0, 
+        "name": "Karn  Sharma", 
+        "matches": 1, 
+        "team": "CSK", 
+        "bowling": {
+            "innings": 1, 
+            "overs_bowled": 2.5, 
+            "4w": 0, 
+            "5w": 0, 
+            "runs_conceded": 33, 
+            "strike_rate": 17.0, 
+            "wickets": 1, 
+            "avg": 33.0, 
+            "economy": 11.64
+        }, 
+        "stumpings": 0
+    }, 
+    {
+        "catches": 3, 
+        "name": "Yuzvendra  Chahal", 
+        "matches": 14, 
+        "team": "RCB", 
+        "bowling": {
+            "innings": 14, 
+            "overs_bowled": 49.2, 
+            "4w": 1, 
+            "5w": 0, 
+            "runs_conceded": 386, 
+            "strike_rate": 16.44, 
+            "wickets": 18, 
+            "avg": 21.44, 
+            "economy": 7.82
+        }, 
+        "stumpings": 0
+    }, 
+    {
+        "catches": 3, 
+        "name": "Navdeep  Saini", 
+        "matches": 13, 
+        "team": "RCB", 
+        "bowling": {
+            "innings": 13, 
+            "overs_bowled": 48.0, 
+            "4w": 0, 
+            "5w": 0, 
+            "runs_conceded": 397, 
+            "strike_rate": 26.18, 
+            "wickets": 11, 
+            "avg": 36.09, 
+            "economy": 8.27
+        }, 
+        "stumpings": 0
+    }, 
+    {
+        "catches": 2, 
+        "name": "Mohammed  Siraj", 
+        "matches": 9, 
+        "team": "RCB", 
+        "bowling": {
+            "innings": 9, 
+            "overs_bowled": 28.1, 
+            "4w": 0, 
+            "5w": 0, 
+            "runs_conceded": 269, 
+            "strike_rate": 24.14, 
+            "wickets": 7, 
+            "avg": 38.42, 
+            "economy": 9.55
+        }, 
+        "stumpings": 0
+    }, 
+    {
+        "catches": 2, 
+        "name": "Washington  Sundar", 
+        "matches": 3, 
+        "team": "RCB", 
+        "bowling": {
+            "innings": 3, 
+            "overs_bowled": 9.0, 
+            "4w": 0, 
+            "5w": 0, 
+            "runs_conceded": 74, 
+            "strike_rate": 13.5, 
+            "wickets": 4, 
+            "avg": 18.5, 
+            "economy": 8.22
+        }, 
+        "stumpings": 0
+    }, 
+    {
+        "catches": 0, 
+        "name": "Dale  Steyn", 
+        "matches": 2, 
+        "team": "RCB", 
+        "bowling": {
+            "innings": 2, 
+            "overs_bowled": 8.0, 
+            "4w": 0, 
+            "5w": 0, 
+            "runs_conceded": 69, 
+            "strike_rate": 12.0, 
+            "wickets": 4, 
+            "avg": 17.25, 
+            "economy": 8.62
+        }, 
+        "stumpings": 0
+    }, 
+    {
+        "catches": 0, 
+        "name": "Kulwant  Khejroliya", 
+        "matches": 2, 
+        "team": "RCB", 
+        "bowling": {
+            "innings": 2, 
+            "overs_bowled": 5.0, 
+            "4w": 0, 
+            "5w": 0, 
+            "runs_conceded": 47, 
+            "strike_rate": 30.0, 
+            "wickets": 1, 
+            "avg": 47.0, 
+            "economy": 9.4
+        }, 
+        "stumpings": 0
+    }, 
+    {
+        "catches": 4, 
+        "name": "Jaydev  Unadkat", 
+        "matches": 11, 
+        "team": "RR", 
+        "bowling": {
+            "innings": 11, 
+            "overs_bowled": 37.2, 
+            "4w": 0, 
+            "5w": 0, 
+            "runs_conceded": 398, 
+            "strike_rate": 22.4, 
+            "wickets": 10, 
+            "avg": 39.8, 
+            "economy": 10.66
+        }, 
+        "stumpings": 0
+    }, 
+    {
+        "catches": 5, 
+        "name": "Dhawal  Kulkarni", 
+        "matches": 10, 
+        "team": "RR", 
+        "bowling": {
+            "innings": 10, 
+            "overs_bowled": 35.0, 
+            "4w": 0, 
+            "5w": 0, 
+            "runs_conceded": 335, 
+            "strike_rate": 35.0, 
+            "wickets": 6, 
+            "avg": 55.83, 
+            "economy": 9.57
+        }, 
+        "stumpings": 0
+    }, 
+    {
+        "catches": 1, 
+        "name": "Oshane  Thomas", 
+        "matches": 4, 
+        "team": "RR", 
+        "bowling": {
+            "innings": 4, 
+            "overs_bowled": 10.0, 
+            "4w": 0, 
+            "5w": 0, 
+            "runs_conceded": 79, 
+            "strike_rate": 12.0, 
+            "wickets": 5, 
+            "avg": 15.8, 
+            "economy": 7.9
+        }, 
+        "stumpings": 0
+    }, 
+    {
+        "catches": 0, 
+        "name": "Ish  Sodhi", 
+        "matches": 2, 
+        "team": "RR", 
+        "bowling": {
+            "innings": 2, 
+            "overs_bowled": 7.1, 
+            "4w": 0, 
+            "5w": 0, 
+            "runs_conceded": 67, 
+            "strike_rate": 10.75, 
+            "wickets": 4, 
+            "avg": 16.75, 
+            "economy": 9.34
+        }, 
+        "stumpings": 0
+    }, 
+    {
+        "catches": 1, 
+        "name": "Varun  Aaron", 
+        "matches": 5, 
+        "team": "RR", 
+        "bowling": {
+            "innings": 5, 
+            "overs_bowled": 12.0, 
+            "4w": 0, 
+            "5w": 0, 
+            "runs_conceded": 116, 
+            "strike_rate": 18.0, 
+            "wickets": 4, 
+            "avg": 29.0, 
+            "economy": 9.66
+        }, 
+        "stumpings": 0
+    }, 
+    {
+        "matches": 1, 
+        "catches": 0, 
+        "team": "SRH", 
+        "name": "Ricky  Bhui", 
+        "stumpings": 0
+    }, 
+    {
+        "matches": 14, 
+        "catches": 5, 
+        "team": "KXIP", 
+        "name": "Mohammed  Shami", 
+        "stumpings": 0
+    }, 
+    {
+        "matches": 1, 
+        "catches": 0, 
+        "team": "KXIP", 
+        "name": "Karun  Nair", 
+        "stumpings": 0
+    }, 
+    {
+        "matches": 1, 
+        "catches": 0, 
+        "team": "KKR", 
+        "name": "KC  Cariappa", 
+        "stumpings": 0
+    }, 
+    {
+        "matches": 1, 
+        "catches": 0, 
+        "team": "KKR", 
+        "name": "Nikhil  Naik", 
+        "stumpings": 0
+    }, 
+    {
+        "matches": 1, 
+        "catches": 0, 
+        "team": "KKR", 
+        "name": "Joe  Denly", 
+        "stumpings": 0
+    }, 
+    {
+        "matches": 1, 
+        "catches": 1, 
+        "team": "CSK", 
+        "name": "Sam  Billings", 
+        "stumpings": 0
+    }, 
+    {
+        "matches": 1, 
+        "catches": 0, 
+        "team": "CSK", 
+        "name": "Dhruv  Shorey", 
+        "stumpings": 0
+    }, 
+    {
+        "matches": 3, 
+        "catches": 0, 
+        "team": "RCB", 
+        "name": "Heinrich  Klaasen", 
+        "stumpings": 0
+    }, 
+    {
+        "matches": 2, 
+        "catches": 1, 
+        "team": "RR", 
+        "name": "Mahipal  Lomror", 
+        "stumpings": 0
+    }, 
+    {
+        "matches": 1, 
+        "catches": 1, 
+        "team": "RR", 
+        "name": "Sudhesan  Midhun", 
+        "stumpings": 0
+    }, 
+    {
+        "matches": 1, 
+        "catches": 0, 
+        "team": "RR", 
+        "name": "Prashant  Chopra", 
+        "stumpings": 0
+    }, 
+    {
+        "matches": 4, 
+        "catches": 0, 
+        "team": "RR", 
+        "name": "Ashton  Turner", 
+        "stumpings": 0
+    }
+]

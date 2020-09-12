@@ -7,5 +7,5 @@ import (
 
 func New(repo repository.Repository) (usecase.Usecase, error) {
 	api := apiVersion1{repo: repo}
-	return api, nil
+	return &api, nil
 }

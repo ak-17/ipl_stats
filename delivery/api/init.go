@@ -8,30 +8,26 @@ import (
 	"github.com/gorilla/mux"
 )
 
-func New(usecase usecase.Usecase) error {
+func New(usecase usecase.Usecase) (Api, error) {
 	api := Api{
 		usecase: usecase,
 	}
 	err := api.initHandlers()
 	if err != nil {
 		fmt.Printf("error initializing router. err:%s", err.Error())
-		return err
+		return api, err
 	}
-	return nil
+	return api, nil
 }
 
 func (api *Api) initHandlers() error {
 	r := mux.NewRouter()
 
 	r.Handle("/healthCheck", HandlerFunc(api.Health))
-	r.Handle("/api/getMovieByTitle", HandlerFunc(api.GetMovieByTitle)).Methods(http.MethodGet)
+	r.Handle("/api/getTeamPoints", HandlerFunc(api.GetTeamPoints)).Methods(http.MethodGet)
+	r.Handle("/api/getPlayersByTeam", HandlerFunc(api.GetPlayersByTeam)).Methods(http.MethodGet)
 	r.Handle("/", HandlerFunc(api.Health))
-	//http.Handle("/", r)
+	http.Handle("/", r)
 
-	err := http.ListenAndServe(":3000", r)
-	if err != nil {
-		fmt.Printf("error initializing router. err:%s", err.Error())
-		return err
-	}
 	return nil
 }

@@ -6,40 +6,46 @@ import (
 	"io/ioutil"
 	"log"
 
+	"github.com/ak-17/ipl_stats/usecase/util"
+
 	"github.com/ak-17/ipl_stats/model"
 	"github.com/ak-17/ipl_stats/repository"
 )
 
 func New() (repository.Repository, error) {
 
-	movies, err := initMovies()
+	players, err := initPlayers()
 	if err != nil {
 		log.Printf("[inmemory][New][Error] error occured during initialization. err:%s", err.Error())
 		return nil, err
 	}
 
 	mem := &inMemory{
-		Movies: movies,
+		Players: players,
 	}
 
 	return mem, nil
 
 }
 
-func initMovies() ([]model.Movie, error) {
-	var movies []model.Movie
-	file, err := ioutil.ReadFile("repository/database/inmemory/data.json")
+func initPlayers() ([]model.Player, error) {
+	var players []model.Player
+	file, err := ioutil.ReadFile("repository/database/inmemory/ipl-2019.json")
 	if err != nil {
 		fmt.Printf(" error occured %s", err.Error())
-		return movies, err
+		return players, err
 	}
 
-	err = json.Unmarshal(file, &movies)
+	err = json.Unmarshal(file, &players)
 	if err != nil {
 		fmt.Printf(" error occured %s", err.Error())
-		return movies, err
+		return players, err
 	}
-	fmt.Println(len(movies))
-	return movies, nil
+
+	for i := 0; i < len(players); i++ {
+		players[i].Points = util.GetFantasyPoints(players[i])
+	}
+
+	return players, nil
 
 }

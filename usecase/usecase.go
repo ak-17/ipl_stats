@@ -7,5 +7,6 @@ import (
 )
 
 type Usecase interface {
-	GetMovieByTitle(ctx context.Context, name string) (model.Movie, error)
+	GetFantasyPointsByTeam(ctx context.Context, teams []string) []model.Team
+	GetPlayersByTeam(ctx context.Context, team string) []model.Player
 }

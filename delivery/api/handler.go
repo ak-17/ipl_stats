@@ -16,6 +16,7 @@ func (fn HandlerFunc) ServeHTTP(w http.ResponseWriter, r *http.Request) {
 
 	data, err := fn(w, r)
 	response.Header.ProcessTime = time.Since(start).String()
+	w.Header().Set("Content-Type", "application/json")
 	if data != nil && err == nil {
 		response.Data = data
 		if buf, err := json.Marshal(response); err == nil {
