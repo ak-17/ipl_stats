@@ -5,3 +5,4 @@
 !.elasticbeanstalk/*.global.yml
 vendor/src
 vendor/src/*
+vendor/
