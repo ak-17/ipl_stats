@@ -2,7 +2,6 @@ package apiVersion1
 
 import (
 	"context"
-	"fmt"
 
 	"github.com/ak-17/ipl_stats/model"
 )
@@ -11,8 +10,6 @@ func (api *apiVersion1) GetFantasyPointsByTeam(ctx context.Context, teamNames []
 	teamMap := make(map[string]float64)
 
 	if len(teamNames) == 0 {
-		fmt.Println("no team names")
-		fmt.Printf("%v", model.TeamNames)
 		teamNames = model.TeamNames
 	}
 
